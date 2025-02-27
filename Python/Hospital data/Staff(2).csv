@@ -1,0 +1,501 @@
+Staff_ID,Name,Department_ID,Position,Salary_Grade,Hire_Date,Shift,Years_of_Service
+004a97d3-3f79-4b46-aa72-177b42a0ac82,Carolyn Barber,4 ,Legal executive,B,2024-07-20,Evening,0
+007ee4bc-54fa-4e23-a3ad-6d408b50d8c7,David Owens,5 ,Air traffic controller,C,2023-09-30,Evening,1
+00fcfa65-1b19-4e85-a0b6-6925f1ef5425,Brandon Taylor,3 ,Network engineer,A,2022-09-17,Morning,2
+0211b181-1994-4153-9032-eb6e4d1a165f,Jacqueline Cortez,2 ,Trade mark attorney,A,2022-06-10,Evening,2
+023a6f89-959b-4be7-bec6-90dfe2235c1a,Katherine Wallace,6 ,Editor- commissioning,B,2024-06-27,Evening,0
+02d63933-ef97-47e4-be9b-6ccd91c3e8f9,Kelsey Aguilar,3 ,Estate agent,B,2024-10-10,Night,0
+02f04fa6-6b15-45c9-8c05-5d3221ba6771,Hunter Wilson,4 ,Clinical embryologist,D,2025-01-15,Night,0
+033fdc5a-ab63-4dc5-8b67-197b71c60753,Sean Wise,3 ,Financial controller,B,2020-09-04,Night,4
+03b1fe90-a37d-4e2a-998f-66d23090028e,Brandi Adams,5 ,Chief Technology Officer,D,2022-08-30,Morning,2
+03eff670-9a3a-448d-a8ba-9dc26e6df793,Michael Dougherty,7 ,Pension scheme manager,B,2024-01-25,Night,1
+042233d0-25e3-4035-b15c-ccc44c243795,Terry Jones,9 ,Arts administrator,B,2021-08-31,Evening,3
+050d1126-e4d3-4e3c-8023-e42244d0bd56,Karen Paul,2 ,Social researcher,A,2022-03-02,Night,2
+051228df-f26c-4eaa-8025-c7c0038b231c,William Price,9 ,Education officer- community,A,2020-10-02,Night,4
+058c4e12-beda-4e13-9717-b2c358ab1168,Matthew Scott,6 ,Designer- ceramics/pottery,B,2021-03-02,Evening,3
+05aaa476-deaf-4902-9327-74694023cb32,Jacob Schmidt,6 ,English as a foreign language teacher,B,2021-09-14,Evening,3
+05b4cfca-511b-4f84-a82a-45792cb8b823,Alexander Riggs,7 ,Water engineer,A,2021-12-06,Morning,3
+062d1a88-94e6-4804-9711-9c585e9cb654,Jeffrey Elliott,7 ,Investment banker- operational,C,2024-11-06,Evening,0
+065c789d-20ed-464b-a988-7a01c720585e,Courtney Deleon,9 ,Immigration officer,A,2021-07-31,Evening,3
+067c4120-08ae-4c02-8205-b37d67a55a6e,Oscar Cooper,4 ,Engineer- mining,B,2021-01-12,Morning,4
+068d38ae-1f63-410f-9f85-d64ca6673cb1,Sarah Jacobs,5 ,Oncologist,A,2024-04-06,Morning,0
+0698a5d8-22f8-4eb6-84b8-608e40cf29e6,Ashley Butler,4 ,Chartered certified accountant,C,2022-01-19,Night,3
+06bcff7b-a4d3-4b29-bd84-7c6292ffbc0b,Rebecca Holland,7 ,Clinical molecular geneticist,A,2022-08-06,Night,2
+06e9b312-6630-4911-aad2-86803a822a18,Gary Cooper,6 ,Museum education officer,A,2023-10-02,Night,1
+078dd4ff-d375-45ef-b395-f98197e361a3,Maurice Berg,7 ,Programme researcher- broadcasting/film/video,D,2022-02-22,Morning,2
+0813aa30-d6a3-40dc-b2e9-b1cfd1a37a3b,Aaron Sparks,3 ,Research officer- government,B,2020-06-16,Morning,4
+082aebf3-f425-404d-8343-1627b08d0355,John Rose,5 ,Nutritional therapist,A,2021-02-22,Night,3
+08c0e985-9433-4f46-8bc7-200868086439,Alexis Strickland,4 ,Musician,C,2020-10-22,Evening,4
+0921d980-c9d2-49b3-942f-78f0eb19347c,Cody Hensley,1 ,Counselling psychologist,C,2024-09-20,Night,0
+09e2e2e7-3ca2-4d0f-80a0-024716cf2a2f,Lisa Davis,4 ,Media buyer,A,2024-06-05,Night,0
+09e8062b-2fe1-4774-bdd6-dc5986ab31bf,Anthony Galvan,4 ,Commercial/residential surveyor,C,2023-12-09,Night,1
+09f7b8ed-b840-456b-9948-b8bcd1fc19fb,Kirk Jones,4 ,Broadcast presenter,C,2021-07-07,Night,3
+0b1e0441-5eb8-4212-9190-a5d2bdd95ac3,Joseph Davis,2 ,Fine artist,D,2023-08-23,Morning,1
+0c1f05e6-af0b-4f7b-9acc-7f9ab59467ad,Meagan Lee,4 ,Research scientist (physical sciences),A,2024-07-13,Night,0
+0c694d7b-1107-491a-a911-8e9d06bbcf67,Amanda Mckenzie,4 ,Fish farm manager,C,2024-10-11,Evening,0
+0d377caa-068c-41f5-9b73-bf9ab30fc8bb,Marcus Strickland,1 ,Programmer- multimedia,B,2024-12-27,Evening,0
+0d785c3d-8afa-4ba7-b8b6-f200af45ddd6,Tommy Morales,5 ,Engineer- production,B,2020-03-30,Evening,4
+0d7fb76f-f1e4-48ac-8068-c091f74cb75a,Jesse Clark,8 ,Journalist- broadcasting,A,2025-01-16,Evening,0
+0dc75590-f928-42c8-ba33-ee013e7bd6e0,Devin Walls,7 ,Restaurant manager- fast food,D,2022-03-03,Morning,2
+0e61d0d9-9561-4a0a-81fb-0ade5ecf0f63,Heidi Mccarthy,6 ,Health promotion specialist,C,2021-10-29,Night,3
+0e6daafb-17d8-4468-9deb-cbad10a84751,Kimberly Townsend,9 ,Forensic scientist,C,2024-02-10,Morning,1
+0e7d63b4-e4ee-4d09-993b-2c1fd88f2671,Maria Estes,6 ,Manufacturing systems engineer,B,2024-02-03,Night,1
+0ee8358d-19fe-432c-807c-3cd3972ab690,Michele King,2 ,Financial adviser,D,2024-01-17,Evening,1
+0ef19add-e36b-4ace-98a0-5109ab841283,Nicole Cabrera,6 ,Claims inspector/assessor,A,2022-12-25,Evening,2
+0efb9aee-e065-411e-b9f1-0df22ec4a356,Tyler Harris,5 ,Diagnostic radiographer,C,2024-07-03,Evening,0
+10c7fcca-5869-4e8c-8717-ad4606b2c09b,Anthony Ramirez,6 ,Engineering geologist,A,2022-03-03,Evening,2
+11720874-31f4-4ea1-9890-96f49bd86c73,Patrick Hudson,3 ,Merchant navy officer,B,2024-09-02,Morning,0
+120c011f-e531-429d-9865-b2c5a0f1c4e6,Megan Gonzales,2 ,Art gallery manager,A,2023-08-12,Night,1
+124d8e54-be96-4d5b-b2b7-0134e726d966,April Walton,4 ,Scientist- forensic,A,2021-02-24,Night,3
+125cd8b4-71dc-4381-a404-3c5f36cab284,Emily Mason,9 ,Forensic scientist,A,2020-03-03,Night,4
+12ae3112-3708-47e7-b5d4-1bae87a83642,Christine Mcfarland,3 ,Scientist- physiological,A,2022-03-11,Evening,2
+12c1d6ca-56e3-4938-95f4-555036286044,Melissa Woods,4 ,Rural practice surveyor,C,2021-05-12,Evening,3
+1350360a-6001-48b0-9027-8e742ed484bb,James King,8 ,Scientist- research (medical),C,2021-12-07,Morning,3
+13d3f34f-89d3-4581-bcfc-a145f8806749,Cheyenne Hernandez,2 ,Television camera operator,D,2020-07-13,Evening,4
+14651995-f51c-4803-a67d-37b92270d0d9,Nancy Nichols,1 ,Psychologist- sport and exercise,A,2023-04-20,Morning,1
+14c02519-12ee-403c-b4a5-6a1718003f19,Angela Davis,8 ,Engineer- aeronautical,C,2021-08-31,Night,3
+153ff82e-0b37-47ed-925a-2530d42daa78,Jose Hall,5 ,Therapist- speech and language,C,2021-03-06,Evening,3
+15e9c46d-50ce-4734-834d-4bd4c454f8d9,Kylie Hunt,4 ,Occupational psychologist,D,2023-02-05,Night,2
+174ebe94-7ca0-4113-8260-7a6f71d32567,Kim Garza,9 ,Training and development officer,B,2021-12-01,Morning,3
+186a9ddb-85c5-4b0f-abe3-079e30d39da2,Brandon Moore,3 ,Administrator- education,D,2023-01-02,Morning,2
+18feca42-9712-449e-b4d1-d39b5fb1fde0,Jacob Garcia,7 ,Psychologist- occupational,C,2020-12-14,Night,4
+1990a8aa-d7c6-4010-b0d9-c1bf2bf1b241,James Herman,8 ,Teacher- English as a foreign language,A,2020-12-28,Night,4
+1a3d7845-3fb9-4e87-8b92-b71b0fab956c,Jay Griffin,4 ,Visual merchandiser,C,2021-02-25,Night,3
+1a53061d-59dc-4e84-80a9-d63398687f07,Dustin Smith,4 ,Geographical information systems officer,C,2024-05-10,Morning,0
+1aa7222e-fada-4f1e-809a-35f16ec73380,Cory Smith,3 ,Forest/woodland manager,D,2023-07-15,Evening,1
+1dd48e16-d17c-4161-ab47-03a60ee94d40,Kathryn Compton,8 ,Editor- commissioning,C,2020-02-15,Evening,5
+1e300ebc-8292-400a-a1eb-0b505b17567f,Kelly Tucker,3 ,Dramatherapist,C,2024-08-01,Morning,0
+1e3d4a83-a964-4987-8e0c-dccebb2fcf0f,Robert Huff,4 ,Community arts worker,A,2022-08-30,Evening,2
+1f242fba-7d35-4d0e-aff9-4ea74eef42ad,Corey Ford,3 ,Engineer- drilling,D,2021-03-22,Morning,3
+1fb8b0ce-129c-47ef-99cd-4d15387b9154,Richard Hogan,1 ,Doctor- hospital,B,2021-07-08,Night,3
+1fdb0f70-c994-48eb-8570-a32003624929,Justin Haynes,8 ,Barista,B,2023-12-28,Morning,1
+1ff9ffa0-9371-4b98-915a-83fab10d52ec,Amy Murphy,6 ,Scientist- research (life sciences),A,2020-03-07,Morning,4
+21dddcd1-803b-4e83-bc8d-98e39c571096,Carrie Wilson,6 ,Computer games developer,B,2022-12-30,Morning,2
+232c8bed-aa6b-4720-bd83-d6b1fb368130,Erica Wolfe,4 ,Intelligence analyst,B,2022-07-08,Morning,2
+234898c8-0747-4a65-8316-ff3215888210,Jordan Jackson,2 ,Radiographer- therapeutic,C,2020-07-17,Evening,4
+2375d8a5-5378-4fa1-bdb1-ab8736ccf366,Alyssa Mullins,1 ,Games developer,B,2023-05-09,Evening,1
+2482d4e9-7872-4775-814e-dc5f6477cb90,Jennifer Cook,5 ,Amenity horticulturist,B,2021-06-27,Night,3
+24ac3444-700d-4ba3-bdc4-e567d8004bc6,Victoria Barry,3 ,Sports administrator,A,2022-10-30,Night,2
+24fec145-ea3b-49ea-b74e-ecd6d5d1d42a,Charles Johnson,3 ,Senior tax professional/tax inspector,D,2021-02-25,Night,3
+25cc9ea3-29ce-4966-8521-ad62611e0b4a,Jason Jones,8 ,Civil engineer- consulting,C,2023-10-07,Morning,1
+261e198d-7ce2-4a01-b6dd-cf5ea07f9723,Victor Hudson,2 ,Surveyor- planning and development,B,2020-04-03,Morning,4
+265336ae-02dc-4957-a856-9296b8484dad,Gabrielle Nelson,4 ,Television/film/video producer,C,2020-10-23,Morning,4
+278580bf-694b-42a8-801d-ac9452d1c3e2,Jessica Welch,4 ,Event organiser,C,2020-11-21,Evening,4
+288ee74b-b325-40c2-b653-5aea2053dc63,Lucas Erickson,2 ,Operational investment banker,C,2024-10-03,Morning,0
+2891fa65-ab9b-4b1d-918f-51f1f6aaa94a,Donna Hanna,8 ,Air cabin crew,B,2022-06-28,Morning,2
+29575381-83e2-4470-b9fe-3073d022813d,Aaron Huang,4 ,Speech and language therapist,C,2023-07-27,Morning,1
+295a2748-ae0a-48b8-af79-76a9acb3b037,Brooke Campbell,7 ,Engineer- site,C,2023-10-22,Evening,1
+2a59aef6-0899-419d-a031-fab95d1ebc6f,Cindy Pruitt,3 ,Garment/textile technologist,C,2024-03-21,Evening,0
+2a60de5b-afbe-4150-9ee0-6893e78880c8,Abigail Jordan,6 ,Pharmacologist,B,2023-02-23,Evening,1
+2b1c27e6-185e-495e-a1dc-c8c6a7d44708,William Delgado,8 ,Communications engineer,D,2021-08-13,Evening,3
+2bdb4789-a7b0-4ea7-9c48-76cf4568628e,Melissa Jones,3 ,Museum education officer,D,2022-03-20,Evening,2
+2c1f5cd0-0683-4986-9447-8ad6815b0952,Randall Watson,3 ,Surveyor- rural practice,D,2021-10-25,Morning,3
+2c32bef7-da7e-4155-accd-0fd5bf3c3f5f,Grace Stone,9 ,Music therapist,A,2020-02-29,Evening,4
+2ce05b2d-a00a-4f07-8b23-324d40ce1472,Veronica Bryant,1 ,Chemical engineer,B,2022-04-29,Night,2
+2ce73986-224a-43b5-88f8-85657d1fc7f8,Marc Reed,4 ,Engineering geologist,D,2022-04-04,Morning,2
+2e1c0009-e383-4905-b8fc-39eee972d323,Christina Jones,8 ,Dancer,C,2022-04-12,Evening,2
+2e7d8120-20fe-4409-b17b-fe9fbaabbbe6,Jessica Peters,2 ,Firefighter,A,2020-12-20,Night,4
+2ebd32e0-0d50-4a26-8c61-1c20499e8b13,George Scott,3 ,Artist,A,2023-05-10,Evening,1
+2f1ba7dc-6164-4a16-8a7d-95eb0c339492,Penny Carroll,2 ,Games developer,D,2021-10-14,Evening,3
+2f9cdf6b-a0f1-4633-9eaa-53ebd33892a9,Renee Wright,9 ,Web designer,D,2024-10-26,Morning,0
+2fb34e2e-778d-40f9-89c1-7f74be918cde,Jessica Martin,4 ,Teacher- adult education,B,2021-08-12,Evening,3
+2fe9c413-41c9-4df3-8b45-4eb073dc1f59,Tracy James,3 ,Customer service manager,C,2023-01-04,Evening,2
+30d48e79-b28a-4cda-9b62-74ba66ca3aa5,Annette Lee,3 ,Proofreader,A,2024-09-15,Evening,0
+30dc76f4-a7f4-4da6-b712-3144b0e93e41,Joann Miller,1 ,Research officer- political party,C,2020-11-30,Morning,4
+31c39346-0c53-4c04-90bf-99eed6905791,Megan Griffin,1 ,Armed forces training and education officer,D,2021-05-31,Evening,3
+31f5e354-61c9-4a50-a0b4-bd2d2e20b830,Gloria Thompson,9 ,Chartered management accountant,D,2020-03-16,Night,4
+332c2628-9a42-45ce-b480-a1be06f7c7cd,Jessica Rodriguez,3 ,Commercial/residential surveyor,D,2022-08-01,Morning,2
+335b3342-9069-4c24-9db2-55a6b1123c0f,Kathy Brown,6 ,Homeopath,D,2022-09-16,Night,2
+337631c5-6d63-41f3-b457-71ecc11b1d62,Sherry Medina,6 ,Charity fundraiser,C,2022-12-08,Night,2
+34639b09-880a-4592-8195-3f1d4d32975e,Joshua Gillespie,4 ,Naval architect,C,2025-01-05,Night,0
+34cd4a18-ceac-4a01-959b-cc2d9da7681c,Samantha Stevenson DDS,4 ,Printmaker,C,2024-11-06,Evening,0
+34d400db-e634-427b-848b-3e64cc886a2f,James Parsons,3 ,Television/film/video producer,D,2022-07-23,Evening,2
+354a5343-f04a-4c63-97b2-ca1e16e03ad1,Sandra Nelson,4 ,Holiday representative,D,2022-01-06,Night,3
+356239c4-8b43-46dd-9f8e-2f2393397275,Julia Guerrero,4 ,Veterinary surgeon,C,2021-07-12,Morning,3
+35a6e275-fbe4-4fa6-b805-2e81c18d9ef5,Jessica Rivers,4 ,Market researcher,D,2021-03-16,Night,3
+37ddf07d-80a2-4adf-83a4-db1b7986f432,April Perez,9 ,Systems analyst,B,2024-03-04,Night,0
+38014d7c-9f21-42ac-9085-1521702702cf,Lisa Williams,4 ,Magazine features editor,A,2021-12-14,Morning,3
+384b323d-c39b-404a-9044-762af2891cf2,Steven Miller,3 ,Logistics and distribution manager,B,2022-05-08,Night,2
+38d59f87-ae39-4d97-a7d4-44c5dbc4f851,Amy Johnson,8 ,Equality and diversity officer,A,2022-04-12,Evening,2
+3971c907-35cf-46aa-bb51-d998d5efce59,Bradley Cline,3 ,Programme researcher- broadcasting/film/video,B,2022-12-02,Morning,2
+3a2cddfe-31ef-4b9c-9eb4-720067424c44,Brenda Collins,4 ,Telecommunications researcher,D,2023-05-10,Morning,1
+3a3a13d7-8702-4fde-a212-1fcead79f150,Christina Matthews,6 ,Engineer- maintenance (IT),B,2023-04-08,Morning,1
+3a594eb8-2bff-479a-94de-50655aff8f7a,Danielle White,1 ,Research officer- government,C,2023-07-12,Night,1
+3a731f02-2396-47f6-929b-afbdc3c32592,Bethany Smith,8 ,Economist,C,2023-01-24,Night,2
+3a7c5077-a94c-44dc-8973-9d04a8824a8c,David May,1 ,Chemist- analytical,B,2023-07-15,Night,1
+3a7dec08-a1b5-4e77-bc17-3f88f35452e3,Jessica Boyer,8 ,Pilot- airline,C,2022-11-13,Morning,2
+3aed5a8c-266d-49da-919e-6ed561752c3a,Laura Brooks,9 ,Therapist- occupational,A,2022-05-11,Evening,2
+3af0b074-1ed5-422b-9692-8e5d4ddedc5b,Daniel Hernandez,9 ,Charity officer,B,2021-01-16,Morning,4
+3b0833a7-9a33-4e96-bfd1-981476502dc8,Brandon Williams,1 ,Equities trader,B,2020-12-03,Night,4
+3c6f1309-9bc7-48df-8573-9a4916e57f5f,John Cruz,7 ,Research officer- political party,A,2020-07-25,Evening,4
+3c997eb6-6b63-456c-b2f2-b547570f35f6,Shannon Hancock,4 ,Forensic scientist,C,2023-03-01,Evening,1
+3d22b6e0-a228-4d00-a274-5a4449b4d423,Rebecca Jones,4 ,Building control surveyor,A,2021-02-15,Evening,4
+3d8e6531-6bb9-493f-ad83-f19c7b321274,Felicia Miller,7 ,Solicitor- Scotland,B,2024-02-02,Morning,1
+3d99dc92-b5f3-417b-ac0b-bc371d4f6996,Debra Anderson,4 ,Teacher- primary school,C,2020-04-24,Night,4
+3da7b83d-1729-4750-af65-35b73e59e2b4,Andrea Jackson,8 ,Psychiatrist,D,2024-11-12,Night,0
+3dde9856-867d-41f9-b4ce-adf5f6afd4e2,Debbie Brown,3 ,Special educational needs teacher,B,2020-06-05,Morning,4
+3ea6592e-e731-465f-b168-f216731512ab,Kathy Lewis,5 ,Food technologist,B,2022-03-23,Evening,2
+3ef953cd-922c-4fb9-8ab4-25f38e1b9242,Travis Callahan,4 ,Charity officer,D,2024-06-19,Night,0
+40262b00-6bc5-4e6c-bf04-6dba6003d2e6,Ashley White,4 ,Teacher- music,D,2020-03-14,Morning,4
+404279fd-6ba1-4a94-a6c0-aac6b4226bb3,Sydney Stafford,7 ,Public librarian,C,2020-12-05,Evening,4
+408000f2-31f0-425d-aa02-e2e8abdd7ae1,Kayla Ayala,8 ,Investment banker- corporate,D,2021-07-04,Evening,3
+40afe559-8337-45dc-ac4c-79185d3d202b,Anthony Johnson,4 ,Haematologist,D,2025-01-31,Night,0
+40c2e32e-a0c4-4d6c-ad1f-372583c0c932,Daniel Williams,7 ,Insurance claims handler,B,2021-08-03,Night,3
+40d2d582-ed3b-48b6-8784-85a8f61f6ea5,Alexander Whitaker,8 ,Therapist- art,B,2021-06-10,Morning,3
+411ec49b-9337-4fee-bcaa-18d0e7d8b0d8,Russell Flores,3 ,Primary school teacher,B,2020-08-04,Evening,4
+416d29da-4ef3-4624-941b-573ccaafae8b,Mark Bell,4 ,Scientist- audiological,A,2023-10-06,Evening,1
+41aa2222-390e-4251-840b-2297a5753788,Richard Miller,5 ,Multimedia specialist,A,2023-04-10,Morning,1
+41cfe849-ffd5-43e8-8a69-1180a44712bf,Ruben Wagner,9 ,Geneticist- molecular,D,2022-08-16,Morning,2
+42c5757c-6558-4b41-991b-c4fa0fb6f94c,Jason Marks,1 ,Learning disability nurse,A,2024-06-29,Morning,0
+4307f292-1f90-4100-8058-1c3a0cf30027,Timothy Smith,3 ,Astronomer,D,2020-03-06,Evening,4
+4366a498-f036-48f1-8c25-d40541bf8379,Julie Long,9 ,Technical brewer,D,2020-10-07,Night,4
+43e28aa7-e1cd-4b2f-90e3-a3d7cca3f22d,Alan Jones,4 ,Civil Service fast streamer,B,2022-09-23,Night,2
+4449c0e6-6978-40ef-8ece-127265b32b6c,Stephanie Miller,4 ,Scientist- water quality,A,2020-05-21,Evening,4
+44c11e1f-8179-4be9-a357-e0454bc2aa03,Danielle Harris,4 ,Graphic designer,D,2022-12-20,Morning,2
+4660c10c-ad56-45a3-b1d2-7c4a51c821ad,James Jackson,6 ,Animal nutritionist,D,2020-07-14,Evening,4
+46852341-5b66-4d92-a430-d81ed1e132e4,Robert Price,4 ,Librarian- academic,C,2023-06-02,Evening,1
+4688cc19-6763-4870-8716-75d78c0c2f09,Michael Spence,4 ,Statistician,C,2022-01-05,Morning,3
+46c3e0fb-4b7d-4a39-ad4b-fd6497e3f430,Catherine Rodriguez,6 ,Colour technologist,A,2021-10-27,Evening,3
+47bb71ac-839b-422c-8467-97482dc457a9,William Rice,1 ,Sports therapist,D,2021-08-09,Morning,3
+483c249a-4c1e-4f11-8a94-658b40729bcf,Kathy Larson,6 ,Exercise physiologist,D,2021-10-17,Morning,3
+4894ea8b-6258-45e0-b9b6-2f33ea0529b0,Nancy Mills,9 ,Restaurant manager- fast food,A,2020-06-11,Night,4
+49234500-3105-497b-a9aa-caf50cc6f7bd,Kenneth Wood,1 ,Designer- multimedia,B,2024-10-10,Evening,0
+49f5e2d6-aa85-4e45-b791-4a9515bd0e8c,Jeffrey Vance,4 ,Paediatric nurse,D,2021-03-28,Morning,3
+4a3ab74d-c0e8-4118-97f1-f654d783e397,Sonya Gonzalez,4 ,Seismic interpreter,C,2024-05-30,Night,0
+4a5d277f-3d59-4dce-9010-d0711a1faf59,Jacob Dunlap,8 ,Logistics and distribution manager,B,2020-07-01,Morning,4
+4bc3a7b2-2613-44e7-a224-543dbac53a08,Joshua Morgan,7 ,Teacher- music,A,2023-06-19,Evening,1
+4c2792e0-de32-4110-ac69-fd25aad266f2,Joe Lopez,8 ,Administrator- charities/voluntary organisations,B,2021-04-20,Morning,3
+4d4d0989-a7cf-4c8f-a5dc-1c67de61bb0c,Matthew Vasquez,3 ,Designer- exhibition/display,B,2021-03-22,Night,3
+4e034ebf-421a-47a8-9a6d-fa6c0eb80554,Theresa Lee,9 ,Sales professional- IT,D,2022-02-07,Night,3
+4eb59aa8-eac2-4cf6-a126-e832a527f2b0,Trevor Wilson,2 ,Printmaker,B,2022-05-23,Evening,2
+4f2be181-81f2-4a80-9bfe-b0c2225f50eb,Thomas Gomez,3 ,Chief of Staff,B,2024-07-02,Morning,0
+4f75604c-9dcf-4cfc-b4b7-2e59e434416e,Chris Williams,4 ,Field seismologist,D,2025-01-09,Morning,0
+50388288-53f4-4dfb-88b5-8beb491e331f,Mr. Alexander Stewart,9 ,Engineer- broadcasting (operations),A,2023-06-15,Evening,1
+50517562-80b4-4627-ba02-92d73ddc8f31,Andrew Floyd,3 ,Corporate investment banker,D,2021-07-20,Morning,3
+50d100dd-a73b-4dab-99d9-45a71f216e0f,Chad Lam,5 ,Environmental education officer,B,2025-01-03,Evening,0
+5100e807-5fc4-450b-98fd-625875d159c8,Tracy Paul,9 ,Scientist- research (physical sciences),C,2022-11-19,Evening,2
+51816ad9-0d0c-4a4d-99c6-2619ef140703,Brittany Price,7 ,Publishing copy,D,2021-03-22,Morning,3
+5183054c-479e-454e-b95b-9e63eaed35d1,Robert Perkins,3 ,Call centre manager,D,2023-10-01,Evening,1
+51950db6-9a27-4aab-becf-19aae74a3ff9,Alicia Johns MD,4 ,Psychologist- clinical,C,2024-09-25,Evening,0
+51b8d226-60ed-48a9-bf39-1692ca71ee26,Jose Alvarado,9 ,Transport planner,A,2021-01-06,Evening,4
+51d86029-1221-4f21-bcaa-89fc4b62494c,Claudia Hall,2 ,Community pharmacist,D,2020-06-24,Morning,4
+545b6dcc-a83f-414e-98d0-dc071f9e4695,Frank Lee PhD,6 ,Corporate investment banker,D,2023-09-15,Night,1
+5686b0cf-5c47-4a6d-9b75-20df381205ae,Paul Collier,2 ,Advertising copywriter,B,2020-10-01,Morning,4
+56ff74db-63c0-43a6-a66a-a0feb720e8df,Peter Alvarez,3 ,Psychotherapist- dance movement,B,2020-11-27,Night,4
+5740c0f7-1959-4395-8045-a2ddfd8e8916,Andrew Johnson,3 ,Firefighter,D,2020-02-28,Morning,4
+57bd46b7-23d3-43ec-9c26-6ce053afea8d,Scott Thomas,6 ,Curator,B,2020-08-11,Night,4
+57fb36c0-71be-4846-b0ee-02032ab09cb7,William Martin,3 ,Acupuncturist,D,2021-06-17,Night,3
+585d3da1-635c-4730-9e0d-5501db7f5049,Anthony Stone,3 ,Psychotherapist,B,2021-04-24,Night,3
+585d42b3-7fd3-4bbb-b763-547b0099e977,Renee Freeman,3 ,Risk analyst,D,2023-12-19,Evening,1
+59792473-5c2f-4552-9969-2c96d0706e97,Benjamin Sims,4 ,Holiday representative,B,2025-01-20,Morning,0
+59c22d96-3fb3-48a5-84e4-a69b4bfc6321,David Perez,5 ,Diplomatic Services operational officer,D,2020-08-14,Morning,4
+5a49ff7a-aa63-495d-9fb5-7edeaa7ce22d,Dr. Tyler Bridges,5 ,Editor- magazine features,A,2023-08-13,Evening,1
+5a98bf44-e402-4ff4-8a84-25e28251ec8f,Karen Joseph,6 ,Architectural technologist,C,2021-11-14,Evening,3
+5afb53c1-97c9-4b87-802d-f35fdd3b68fb,Stephen Roberson,1 ,Pharmacist- hospital,B,2021-03-06,Night,3
+5be55f9b-fed1-4ec3-b02e-d7d8ac79357e,Elizabeth Perkins,3 ,Producer- radio,D,2023-06-22,Night,1
+5caf99c1-498e-4b7e-aae9-174023c932fd,Robert White,9 ,Garment/textile technologist,B,2020-03-25,Night,4
+5cfdf842-3c91-4f95-89e7-6a517a014c8c,Robin Smith,6 ,Special educational needs teacher,A,2022-04-03,Night,2
+5e93a0bf-1a42-469f-a890-2456c2f168ef,Michael Watson,9 ,Architectural technologist,D,2024-05-27,Night,0
+5ebbfaba-b71c-4cc9-bc56-106c2ce062f9,Dr. Donald Sexton MD,2 ,Production manager,A,2023-07-24,Morning,1
+5ff4ccac-bef0-4e3e-a107-1e089a52d011,Richard Beasley,8 ,Geologist- wellsite,C,2020-08-30,Morning,4
+605cde2e-f6fc-4812-82bb-01017485bd6f,Keith Adams,3 ,Housing manager/officer,D,2020-09-22,Morning,4
+60b2861c-79b5-4351-9ff4-94d49374762f,Jesse Mason,3 ,Proofreader,C,2020-10-28,Morning,4
+60da98ea-a63a-4e28-a5f5-7a704a48b05f,Eric Chavez,9 ,Stage manager,B,2022-01-21,Morning,3
+62a238b6-6b7e-4aa0-b05b-c5b69f4cd16b,Angela Tran,3 ,Furniture designer,A,2023-11-01,Morning,1
+62aad25e-e528-488e-9450-1505409d98a1,Michelle Sloan,3 ,Industrial buyer,B,2024-02-13,Evening,1
+62c6a9f8-592e-4fab-99ad-00a5fb274110,John Reyes,7 ,Designer- industrial/product,B,2024-04-22,Morning,0
+63e7bfe8-8548-4696-a838-834f26d6e047,Stacy Lawson,5 ,Contracting civil engineer,C,2022-04-24,Morning,2
+653d98a5-dd9e-4fb6-b6f8-59b1757a27ab,Cynthia Potter,4 ,Facilities manager,A,2020-12-14,Night,4
+65766505-8bd7-46c3-913d-0d64e8ea7354,Miss Linda Robinson,4 ,Government social research officer,C,2022-03-14,Morning,2
+65c36d2e-a4cb-4197-a54b-233be7dc8f01,Heather White,6 ,Media planner,D,2023-08-11,Night,1
+68990500-a731-47a3-9647-a8ec2c41229a,Daniel Gross,4 ,Psychologist- counselling,B,2023-06-11,Night,1
+68c154cc-1ba9-4b38-a1cb-c8127510418d,Jay Curry,4 ,Neurosurgeon,D,2023-07-13,Night,1
+68c3fb8d-4559-4468-99fb-f6b37b58d4af,Kelli Hopkins,6 ,Amenity horticulturist,D,2021-11-24,Night,3
+6b89b9d9-fe6a-462c-a438-d0eb001d37d4,Joseph Evans,5 ,Academic librarian,A,2023-07-04,Morning,1
+6bd6015f-f8cb-41a2-8ee2-3ce72a9c4df6,Adam Williams,2 ,Transport planner,B,2021-05-28,Morning,3
+6c58ebfd-a94d-4eaf-b63e-61ab868975d0,Brooke Ward,4 ,Lecturer- higher education,A,2023-12-22,Morning,1
+6d51082f-d1b3-4a7a-9b11-0a264d5157d6,Elizabeth Choi,3 ,Transport planner,D,2020-05-06,Morning,4
+6d579fb0-05b4-4a53-8738-abf0662da631,Alicia Byrd DDS,3 ,IT technical support officer,A,2022-11-03,Evening,2
+6d908297-ed17-4865-8433-57424fc80ba6,Dr. Olivia Spencer,1 ,Commercial/residential surveyor,D,2022-05-05,Evening,2
+6daa1672-ee09-4b36-8268-3de0f883c929,Matthew Perez,3 ,Mental health nurse,D,2020-03-15,Night,4
+6e86ef20-4a42-4984-a46b-b9b986ce0373,Thomas Bullock,4 ,Dispensing optician,A,2024-03-08,Morning,0
+6f02fdeb-5428-4bb9-9df4-431bc7a13d34,Jasmine Little,1 ,Ergonomist,C,2024-01-03,Evening,1
+6f280f82-4c10-4463-8690-95c92cae63b1,Aaron Lucas,9 ,Physicist- medical,C,2021-04-04,Morning,3
+6faacbf2-e6b0-4d9a-bb91-f024549db031,Gregory Wood,1 ,Youth worker,C,2025-01-24,Night,0
+6fe20b0e-00d0-4e92-b1c7-3e2cd3ef5599,Angel Sosa,7 ,Advertising art director,D,2021-11-02,Evening,3
+700df52d-5ca5-4098-813b-11706f2617c6,Jennifer Holland,6 ,Solicitor,D,2021-03-28,Night,3
+70bcbe30-9de6-4e14-a754-6afb90509455,Eric Evans,6 ,Data processing manager,B,2022-11-12,Evening,2
+71ca183a-ab23-4530-aaaf-37aa14bc2b23,Janet Sanford,4 ,Nurse- learning disability,B,2021-03-01,Morning,3
+71f2f470-b724-47e4-870e-055bc81f6d08,Jessica Bradley,3 ,Conservator- furniture,C,2022-01-09,Morning,3
+728d9078-4489-4e38-875b-ec4e30dfb5f0,Vanessa Harris,1 ,Librarian- academic,B,2022-06-28,Evening,2
+73dc3ccf-97f0-410a-8e5e-9413c17a7f32,Jeremy Giles,2 ,Biomedical scientist,A,2020-06-09,Evening,4
+73fb301c-3202-408f-ba97-45b1b2860292,Tara Peterson,2 ,Magazine features editor,B,2023-03-07,Morning,1
+7604666d-2ec8-41b9-9847-902f69b79ea9,Heather Bailey,1 ,Ergonomist,C,2023-10-16,Night,1
+76288043-ab54-4717-bfef-fca137d3ebc6,Tammy Martin,2 ,Best boy,C,2023-02-23,Night,1
+76d33254-ffe6-4bb6-aa46-1ce718c36dee,Darrell Reed,5 ,Sound technician- broadcasting/film/video,A,2022-09-18,Morning,2
+770eaa94-e262-446e-a7f8-a2e254ed3342,Christie Delgado,9 ,Associate Professor,B,2024-12-13,Evening,0
+77b608ef-79b2-4779-ab4a-c42408ec5b94,Lisa Lee,5 ,Arts administrator,B,2023-10-25,Morning,1
+77b95fa6-4b3b-4369-8e79-7df8a424e346,Kelsey Sandoval,7 ,Retail banker,D,2021-09-26,Evening,3
+78e4c9e7-1b75-4a51-aa02-a956ec6d43a1,Tiffany Scott,7 ,Scientist- research (physical sciences),B,2023-06-01,Night,1
+79b018b6-8ca1-4b3c-a60f-4d6449d74219,Frank Taylor,6 ,Teacher- English as a foreign language,A,2022-02-26,Morning,2
+7ad95706-389d-480a-8513-83917eade2f2,Jessica Long,4 ,Clinical psychologist,C,2023-09-23,Evening,1
+7b0eec32-26ec-4304-8788-5eaa47fd789b,Steven Mendez,4 ,Environmental education officer,D,2022-07-16,Night,2
+7b6f5233-50d8-4fec-964b-57fcd9a571ed,Andrea Gomez,4 ,Engineer- biomedical,B,2020-05-30,Morning,4
+7d712046-0780-4ee5-bd79-4cc2c81f3d3f,George Graham,4 ,Immigration officer,A,2023-11-25,Morning,1
+7dc046ba-9328-4ef1-b8e5-98c6a6a047ea,Michael Juarez,3 ,Research scientist (maths),D,2022-12-30,Morning,2
+7e3c0005-d179-44db-923f-42c54e8e50d1,Jared Hall,4 ,Personnel officer,C,2021-10-23,Evening,3
+7e47fac0-cbd7-4a42-bfbe-59da5f62da28,James Burton,4 ,Tree surgeon,C,2020-03-04,Morning,4
+7e56fe87-7fda-4be1-89d3-67e4e7e02df0,Roberto Matthews,7 ,Tourism officer,C,2024-08-12,Night,0
+7f4ca4db-8755-4072-a88e-db8d30c7badc,Robert Arnold,4 ,Engineer- water,B,2022-11-10,Night,2
+7f576782-4dbc-4689-a2b4-e132131ba396,Tara Smith,5 ,Advice worker,C,2023-09-02,Night,1
+7f7ac4ad-f971-4140-9011-ea2739457b29,Kimberly Mason,9 ,Artist,C,2022-04-06,Evening,2
+7fd0a17f-567c-420b-b1a6-5bdb92da1216,Debra Mendez,1 ,Leisure centre manager,B,2023-08-12,Evening,1
+7fd72d4f-09e7-416c-88e7-b2c3b2078baf,Mary Beck,7 ,Nurse- children's,D,2021-06-02,Evening,3
+814acb45-dd93-4ad2-8fb7-d348ca2ad346,Jasmine Martin PhD,1 ,Police officer,B,2024-08-11,Evening,0
+81ffc538-2a5f-45f0-9d1f-cda0dd2225b8,Victoria Lopez,4 ,Scientist- forensic,A,2024-04-25,Evening,0
+82238fef-c8f1-4536-b196-7212d2640510,Jordan Franklin,6 ,Education administrator,D,2025-02-07,Morning,0
+82791fd9-0ca5-4e72-9eff-c5d143f08f07,Tara Henry,6 ,Educational psychologist,D,2023-03-02,Evening,1
+82a93324-c526-44d1-a31e-64c155104764,Daniel Silva,7 ,Agricultural consultant,A,2020-08-13,Night,4
+82e062cc-3aac-4bfc-b3cb-6b70f1dea0f8,Christy Sanchez,1 ,Contractor,D,2023-03-15,Night,1
+8389706d-66e2-41ae-b352-8de980611c3a,Gregory Hall,4 ,Production assistant- television,B,2024-04-05,Night,0
+848ffbab-9ec4-4c7d-b7fc-8998bb0d8491,Stephanie Medina,7 ,Air traffic controller,C,2022-01-25,Evening,3
+84941777-d45d-4d77-8b30-3611677b2737,Ryan Cook,3 ,Haematologist,B,2020-12-08,Morning,4
+84e4b211-ce5b-40ee-b154-347e7982593d,Darryl Brooks,7 ,Financial controller,B,2021-02-24,Night,3
+84e609b5-ac98-40de-9c9d-b35b282281a8,Harold Ellis,3 ,Microbiologist,B,2024-10-29,Night,0
+856b6f35-6c4b-4fed-9f08-65ec9d000c9d,Richard Mays,3 ,Marine scientist,A,2021-12-20,Evening,3
+85f422b9-144a-48a3-a6bd-746057a1e540,Ashley Sanchez,4 ,Media planner,D,2024-04-30,Evening,0
+86a64c05-0972-41d1-910a-feed2649a2a8,Priscilla Cook,4 ,Physiological scientist,A,2023-08-17,Morning,1
+875f3711-e793-48ae-aff9-32ff79f6a2fa,John Cantu,9 ,Lighting technician- broadcasting/film/video,B,2023-03-09,Night,1
+8792abf9-3453-4640-b3f2-c369deaf0e7d,Tanya Gibson,6 ,Sound technician- broadcasting/film/video,C,2020-07-26,Night,4
+88004aa3-0347-48d0-9296-8d4b2cdbaf83,William Gomez,4 ,Medical physicist,C,2023-01-27,Morning,2
+8809bc3a-6532-4712-916c-fc62a04f334f,Keith Gray,4 ,Television floor manager,C,2024-11-24,Morning,0
+8814709e-a10b-4810-b150-b1746f67ce22,Damon Warren,1 ,Chartered public finance accountant,A,2023-05-15,Evening,1
+88188e32-058c-44c2-b184-3abe77efe0ce,Gilbert Silva,1 ,Herbalist,D,2020-02-19,Morning,4
+883a275e-7c31-45bb-8831-46a4af2e4adf,Darren Cook,4 ,Community pharmacist,B,2020-06-16,Evening,4
+88971325-d4e1-45f6-a4b1-7d95159c8bd7,Kristen Parker,7 ,Occupational psychologist,D,2020-03-01,Morning,4
+8ad2f88f-cb86-41b1-a921-c186d4d6816b,Dr. Caitlin Garcia,9 ,Illustrator,C,2022-07-05,Morning,2
+8ae17e04-2cfb-4ff4-84b2-a12ccbeee9bc,David Blake DDS,3 ,Research scientist (medical),C,2021-07-21,Night,3
+8bd05079-18e0-459f-964e-da2b5d020303,Joseph Velasquez,3 ,Print production planner,B,2022-10-04,Morning,2
+8be71fa1-4b2f-476d-a581-394c14eac62a,Michael Carroll,8 ,Chartered legal executive (England and Wales),C,2023-06-10,Evening,1
+8c6edf8d-d6d2-4ce5-9121-354ee87e79b2,Linda Townsend,3 ,Magazine journalist,C,2022-10-10,Night,2
+8cbf04c5-4c6e-4977-8b4b-fdf9d9226560,Valerie Russo,3 ,Production designer- theatre/television/film,B,2022-03-09,Evening,2
+8d060d14-d131-419d-ae7a-f3c5525a04ff,Sharon Carter,4 ,Forensic scientist,C,2022-04-15,Evening,2
+8de5bdda-7a9d-4d93-b2d9-32b543c2e331,Charles Olsen,4 ,Geologist- wellsite,B,2020-12-14,Morning,4
+8de8878f-5b91-4d35-9d29-a965e42d73e5,Vincent Everett,2 ,Environmental manager,C,2023-11-03,Evening,1
+8dffe7da-8339-480a-970d-149e04b6e779,Stephanie Perkins,2 ,Museum education officer,A,2022-07-08,Evening,2
+8e6b368f-ac56-484a-a26a-e75f1955e477,Judy Colon,9 ,Chartered management accountant,D,2022-09-19,Evening,2
+8f1f0a51-bd54-4c48-98e5-2c4e5e8b8f4b,Brenda Clements MD,4 ,Ecologist,A,2022-04-29,Night,2
+9061c61f-0863-4114-9080-4926f17e2a91,Wendy Miller,4 ,Scientist- research (medical),B,2023-01-03,Morning,2
+9080c27e-d77c-435d-a873-5d1a38234eac,Michelle Dennis,5 ,Community pharmacist,D,2023-12-29,Morning,1
+909ce37a-9651-4809-81bd-6ae612e20157,Daniel Booker,3 ,Careers adviser,A,2020-10-14,Night,4
+9172ebfb-f52c-4c09-93dd-2b858c3a057a,Kimberly Bradley,9 ,Hydrographic surveyor,C,2025-01-21,Evening,0
+9199dbc1-bbb3-47fd-b90b-6a92d2725312,Amber Clark,4 ,Computer games developer,D,2024-09-26,Evening,0
+934e862c-1872-4bbb-9b19-e98a913e1126,Lindsey Cooper,9 ,Artist,A,2025-01-30,Night,0
+94507ee1-c027-43f7-bd00-4a2616e8d5de,Alec Smith,4 ,Broadcast journalist,C,2022-03-03,Morning,2
+9457cc2b-450d-41a9-99c5-f0a5a5f9f470,Jamie Thomas,2 ,Insurance broker,D,2021-07-25,Evening,3
+948e206d-1e3d-4827-9241-e52e2669192c,Douglas Mckay,3 ,Administrator,C,2021-02-15,Evening,4
+95dd0ecf-7398-4297-bbea-56f1000b73bf,Richard Maddox,1 ,Chief of Staff,B,2025-01-27,Morning,0
+96be1fef-4ee2-4e40-9b89-aa15e960c0c7,Janet Craig,1 ,Production designer- theatre/television/film,B,2024-10-27,Evening,0
+96c760cb-1e0f-46b1-8bb8-470eb95dde74,Douglas Mcmillan,4 ,Holiday representative,C,2020-09-17,Night,4
+96e4adb1-93f2-48ae-a280-7efe84d45990,Michael Jackson,6 ,Medical physicist,B,2021-03-18,Night,3
+98c207f2-b8a8-4822-9742-b8b2e2f18370,John Khan,3 ,Research scientist (physical sciences),D,2021-06-20,Evening,3
+99422a20-012b-476f-b57f-c462f6eb7e88,Hannah Reyes,8 ,Amenity horticulturist,B,2022-05-10,Morning,2
+9951a338-1d6f-4bdb-b0cf-10990fce1a95,Sherri Jones,3 ,Seismic interpreter,C,2020-11-04,Evening,4
+9a422853-2eaf-4122-90f8-07267ab7d5aa,Thomas Johnson,2 ,Plant breeder/geneticist,A,2023-05-19,Morning,1
+9a98356b-361f-4060-a332-a5b64a7cd4e1,Thomas Espinoza,4 ,Higher education lecturer,B,2024-09-28,Evening,0
+9b964f39-9656-4c71-80fd-7bef781c97e5,Stacey Torres,3 ,Chief Strategy Officer,D,2024-08-25,Morning,0
+9c96eb5e-f0d1-4975-8220-c78a90df68d8,Christopher Kim,3 ,Economist,D,2020-11-17,Morning,4
+9cdad887-0a46-43d9-b855-a680e87a8bb9,Maria Morris,3 ,Commercial horticulturist,D,2023-12-13,Evening,1
+9dd8f4e4-f2f1-41d6-8c03-b217a4c932d9,Patricia Meyer MD,5 ,Emergency planning/management officer,D,2021-11-30,Night,3
+9df94676-a06e-4797-a07c-a4bb5c2c405a,Jennifer Beard,4 ,Equities trader,C,2024-05-02,Morning,0
+9e090aad-8523-4c75-b245-b5d9d51b405b,Ashley Arnold,4 ,Operational investment banker,D,2020-05-03,Night,4
+9e384880-59d9-42fd-b8fd-0480f34f8341,Erin Brooks,3 ,Haematologist,D,2022-12-24,Night,2
+9e4801a0-1228-4b47-8796-53ff0432cf13,Rachel Todd,6 ,Press photographer,C,2024-12-31,Night,0
+9e542a4e-fa9f-4ced-a0b0-7c8ff96f73e9,Tyler Yates,6 ,Counsellor,B,2024-11-03,Evening,0
+9f2c8078-fe18-4c7c-87f1-3bc7acbacedb,Elizabeth Anderson MD,4 ,Civil Service fast streamer,A,2024-05-07,Evening,0
+a06522b6-44b0-462b-9746-522171db6a88,Maria Smith,3 ,Youth worker,A,2023-02-16,Evening,1
+a1ae9cb1-dd5e-45da-add2-731edd877c22,Mr. Michael Perez,3 ,Soil scientist,C,2021-10-01,Night,3
+a1d569aa-cb4f-49f1-9255-adcd3716832e,Lindsay Jones,3 ,Aeronautical engineer,B,2024-08-23,Night,0
+a208eeb3-867c-40c1-9c59-ca41ef3bff84,Jennifer Bennett,4 ,Air broker,B,2021-12-17,Morning,3
+a2186765-893c-4d04-b413-74f980327945,Phillip Hudson,1 ,English as a second language teacher,A,2022-10-13,Evening,2
+a2f4a8c8-1788-4a72-9310-efaa0d55603c,Jesse Flores,7 ,Editor- commissioning,C,2024-06-12,Night,0
+a317a7e8-e465-4fbf-a8ae-61dc395cc62e,Mr. Aaron Velasquez,1 ,Stage manager,A,2021-04-14,Night,3
+a412f6c4-bf10-4c60-90ee-4bf9dbb8d2d3,Melanie Mclaughlin,5 ,Arts administrator,A,2024-07-04,Evening,0
+a4733fcb-db00-430e-8060-d0380a18980c,Douglas Williams,4 ,Scientist- water quality,B,2020-10-07,Night,4
+a546bd75-e466-4402-a23b-c8cd766f1bef,Theresa Ramirez,4 ,Paediatric nurse,A,2020-11-28,Morning,4
+a56d8c04-4a8c-41b9-b26a-f79f159d04d1,James Atkinson,7 ,Haematologist,B,2024-09-08,Evening,0
+a5e4b5b5-6450-4216-addb-c7e0dd02d32c,Becky Green,4 ,Professor Emeritus,B,2025-02-11,Night,0
+a6c92c9c-4f47-4e8b-8124-f4bb75290478,Mrs. Nicole Sims MD,4 ,Recycling officer,A,2020-09-08,Evening,4
+a8b8773b-1dc5-44e1-af97-3e6b9a542605,Ashley White,8 ,Mudlogger,C,2021-11-30,Evening,3
+aa3c0481-0ab4-4e6c-b907-15294554800c,Daniel Jimenez,5 ,Office manager,B,2023-11-15,Evening,1
+aab79d0a-ec7e-4b00-b9f3-0ba7c7f8b658,Erik Brady,3 ,Dance movement psychotherapist,B,2021-08-20,Night,3
+aac5305f-fef9-4e30-a1ef-b8e4f2e68571,Corey Duke,5 ,Human resources officer,B,2020-03-30,Night,4
+aaff1569-6cd6-4e47-a72f-cda8564b4da6,Ryan Mcguire III,9 ,Air broker,B,2022-01-08,Morning,3
+ab7f7ec2-743b-451e-8611-9a1af2bec31c,James Rogers,4 ,Theatre manager,A,2021-11-07,Morning,3
+ab81082b-c901-485a-917b-9be09f969f43,Tracy Lee,6 ,Surveyor- insurance,C,2022-04-29,Evening,2
+ac4b88c6-ed0f-46ce-b74d-a4af2625940a,Robert Neal,4 ,Museum/gallery exhibitions officer,D,2023-03-17,Morning,1
+acc3430f-65a0-4267-bfda-707ef7485fb3,Megan Walker,4 ,Administrator,C,2021-02-07,Morning,4
+ad085404-dcda-4e5a-97e0-d3a9814952c9,Robert Hanson,4 ,Engineer- electronics,D,2020-04-19,Morning,4
+ad51704f-8c0a-4d21-8f26-9f8449a30420,Timothy Burke,3 ,Minerals surveyor,C,2021-04-15,Night,3
+adc5bdde-7ec7-4e37-af42-ddc038e5b088,Lauren Richard,7 ,Engineer- building services,C,2021-09-01,Night,3
+adcd3d26-62a6-4459-a7cf-75743e6d547a,Megan Duncan,6 ,Designer- graphic,A,2024-03-28,Night,0
+aec6f9a2-eccf-468c-a553-291f41b2289a,Scott King,3 ,Colour technologist,A,2024-07-16,Night,0
+aeef1216-5b78-4260-98c6-7c9341048685,David Hernandez,4 ,Sales executive,D,2024-07-21,Morning,0
+af1254c5-b625-40f7-94f0-cee25dae8de5,Leslie Long,4 ,Lawyer,B,2024-03-24,Morning,0
+af47369f-44bf-4b19-b4bf-4c26c54b7caa,Gregory Graham,9 ,Sports development officer,C,2024-01-20,Morning,1
+af94c9b2-7491-4d5e-8438-37626d42bbd4,Courtney West,3 ,Engineer- chemical,A,2022-08-18,Evening,2
+b060081e-272d-4ac0-902c-0f3b6c72e072,Edward Thompson,2 ,Brewing technologist,D,2023-06-02,Evening,1
+b08059ed-951f-4d74-a1a2-4b6148c0350b,Grace Buckley,8 ,Medical laboratory scientific officer,B,2023-06-27,Morning,1
+b219a7b6-8d07-499a-979e-243158f4f8cc,Robert Jenkins,7 ,Research scientist (life sciences),D,2021-03-08,Evening,3
+b324f6ce-da42-4b98-bd15-c411654b30c4,Chelsea Chase,5 ,Immigration officer,A,2024-07-31,Evening,0
+b342d86d-b76d-4961-a4cb-6bfde33ea6be,Cindy Leon,6 ,Restaurant manager- fast food,C,2020-03-10,Night,4
+b346aff8-086d-4db9-9939-94cb12381563,Darren Brown,6 ,General practice doctor,D,2023-02-25,Night,1
+b364a145-1a16-4282-a7ba-f55c824e4705,Anthony Barker,5 ,Therapeutic radiographer,D,2023-09-22,Evening,1
+b3cf9096-4ab8-4b94-879e-e908494472d5,Stephanie Atkins,3 ,IT sales professional,C,2023-06-08,Night,1
+b465cbd9-67fb-4718-ad58-7b836283c6f8,David Gonzalez,1 ,Marine scientist,B,2022-10-19,Morning,2
+b5eea0f6-8a3e-4414-aa79-04008dcfa602,Keith Ferguson,4 ,Holiday representative,A,2020-03-15,Morning,4
+b69ccb84-9763-42d3-bb86-8f7dd5e8a657,William Thornton,6 ,Engineer- manufacturing systems,C,2021-12-08,Night,3
+b6c95bed-c824-438c-8de1-3bd615b5f80b,Michelle Walsh,4 ,Journalist- magazine,A,2020-11-26,Morning,4
+b78a3bbe-2924-403f-b805-cc3e8d6ae4b4,Summer Sanders,7 ,Operational researcher,C,2024-01-08,Night,1
+b7932cf6-60c0-4064-99dd-49c2d980235a,Olivia Arnold,9 ,Librarian- public,A,2025-02-04,Evening,0
+b7a03cbd-7ed1-4b37-9b77-a22afada4186,John Terry,8 ,Insurance underwriter,A,2024-07-13,Morning,0
+b7cbc6f3-89d7-49c4-8b1d-29484d1796de,Amy Perez,7 ,Higher education careers adviser,C,2023-09-07,Night,1
+b7f5a499-af79-4fe2-a977-b09d0425a279,Jordan Ellis,5 ,Planning and development surveyor,C,2023-03-06,Morning,1
+b8e81884-39e3-491b-80b0-567dbde9977b,Andrew Moreno,8 ,Leisure centre manager,C,2023-11-30,Evening,1
+ba750329-a2da-4b62-a4b9-41706d1ea13f,Michael Silva,8 ,Building services engineer,D,2022-11-05,Night,2
+bb5e83cb-6a28-4031-83f8-e5279a07173f,Donna Williams,1 ,Theatre stage manager,D,2022-04-08,Night,2
+bbba30d8-8279-4030-a335-8bcd6651a410,Philip Smith,4 ,Senior tax professional/tax inspector,D,2021-07-06,Evening,3
+bbd4c3b8-4189-478d-8f4d-9c6ddfe5cd4b,David Thomas,5 ,Community development worker,B,2020-11-06,Night,4
+bc90e6a2-392c-48a2-89f9-53ad0cb20cf2,Matthew Porter,5 ,Fashion designer,D,2025-01-04,Morning,0
+bc9edfe9-e420-4e3f-af92-d8bd2e102e81,Robert Graham,5 ,Development worker- international aid,A,2023-07-11,Morning,1
+bcee2b4b-b4fc-48a9-b217-c7f2f0e27904,Ricky Bass,3 ,Therapist- drama,C,2024-03-07,Evening,0
+bd270586-726a-43e1-b93c-e10639890f24,Brian Phillips,4 ,Civil engineer- contracting,C,2023-07-25,Evening,1
+bd3246fa-b2e0-47e3-9393-901de1dce310,Gerald Johnson,7 ,Automotive engineer,D,2020-12-12,Evening,4
+bd5fec78-17e5-4240-b130-e44adaa70a96,Steven Griffin,5 ,Intelligence analyst,D,2022-11-23,Morning,2
+bdbbd90c-a7bf-49b2-97e8-dc5e3373ca64,Julia Torres,4 ,Exercise physiologist,D,2022-07-16,Morning,2
+bdc9f4f1-8a78-4c0a-a229-10583315fafe,Angie Myers,3 ,Sales executive,B,2022-11-18,Night,2
+be40182f-70aa-4d96-aadf-b368ea917074,Debra Brown,3 ,Surveyor- rural practice,D,2024-01-10,Morning,1
+be988575-3c05-483d-8925-ecd01df643c5,Bruce Mejia,4 ,Best boy,C,2021-12-25,Morning,3
+bf206a12-b20b-4aee-a952-e7e9d6e74625,Julie Stevenson,3 ,Exhibitions officer- museum/gallery,B,2021-12-01,Morning,3
+bf3464b2-666a-482a-84cf-b649e17d81d6,Raymond Robinson,5 ,Statistician,A,2024-05-28,Morning,0
+bfff1fb5-9039-416c-8a5f-2f73eddbbc48,Laura Cross,5 ,Engineer- manufacturing,D,2020-08-16,Morning,4
+c004ea1c-257d-4048-bcec-da8dfef2f2bf,Jaime Smith,4 ,Landscape architect,A,2022-04-24,Night,2
+c0379c9b-74bf-4bec-bd96-9a4442f966bd,James Casey,3 ,Drilling engineer,C,2023-05-05,Evening,1
+c1337f52-3012-4abd-8dd1-600f93c32b49,Chase Wilson,5 ,Personnel officer,A,2023-02-10,Night,2
+c2e5531c-2ff0-4118-ac1e-c28268a73ee0,Mr. Kevin Bennett,5 ,Retail merchandiser,A,2021-08-12,Morning,3
+c2fdd9c3-799e-496e-a6c2-9f3d6ede1a29,Marissa Harding,1 ,Regulatory affairs officer,D,2022-03-15,Night,2
+c32eab86-bac1-416a-a7d0-50f2e818980b,Robert Flores,1 ,Toxicologist,C,2024-06-01,Night,0
+c375bd1c-c564-4658-96ee-46bcf9aea21d,Alicia Pruitt,3 ,Administrator,B,2021-07-10,Morning,3
+c48d0563-335f-4ce6-9bcb-e77f948af096,Jacob Johnson,6 ,Operations geologist,A,2021-12-18,Evening,3
+c496b386-0dc3-41f1-967a-864b58c03721,Kimberly Thompson,4 ,Medical physicist,A,2023-09-21,Evening,1
+c4e9d9cd-3b10-4d84-87da-29a98a2be0fe,Christopher Allen,1 ,Hydrogeologist,B,2021-10-05,Night,3
+c505208b-0cec-4a92-af2c-b2e7b06b142c,Jeffrey Howard,8 ,Field trials officer,B,2020-10-05,Morning,4
+c506057e-4cc8-41da-aa7d-e052238411e2,Alexandria Young,6 ,Financial trader,D,2022-03-01,Morning,2
+c6c35459-7e2e-4fed-b6a8-f757ae53634a,Becky Reynolds,9 ,Engineer- structural,A,2021-07-18,Evening,3
+c719f71e-7b36-4a87-8f24-7a20dd59ec3f,Terrance Riddle,8 ,Radiation protection practitioner,A,2020-09-09,Evening,4
+c71ca986-ee6c-497f-8da8-80a9f99ac6a4,Sandra Espinoza,9 ,Barrister,A,2021-02-21,Night,3
+c785c26b-a182-44ad-8d55-e4e201734fa3,Brandon Daniels,9 ,Sports development officer,A,2024-12-14,Evening,0
+c84d444b-df1c-45f1-a4f4-5aacfb53bd97,Crystal Bender,8 ,Metallurgist,D,2023-01-31,Morning,2
+c9e1bb11-182e-4393-ae21-377b851e5aca,Rachel Schroeder,1 ,Secretary/administrator,A,2021-12-12,Morning,3
+ca16e507-1add-4e36-afb1-69bfdd70a922,Tommy Black,4 ,Applications developer,D,2020-09-19,Morning,4
+caff7e6d-742e-4762-aba7-1a54a4b44929,David Moran,8 ,Banker,A,2020-09-26,Evening,4
+cbd79408-af2e-4da1-8c24-3e2cfa54489a,Jennifer Anderson,7 ,Clinical embryologist,C,2020-12-01,Morning,4
+cc083952-fd11-4be5-a6f1-c986d102ea8d,Kevin Kennedy,4 ,Tax adviser,C,2025-01-12,Morning,0
+ccc6ba7c-d7cd-4f1f-9f62-9126fe81c927,Bobby Holloway,3 ,Solicitor- Scotland,C,2023-06-21,Night,1
+ce4552bd-c994-4b8c-ba2b-3260909e3ba4,Susan Hale DVM,4 ,Lobbyist,C,2023-02-01,Evening,2
+cf0f5115-e006-4f21-be95-4bf64be809c3,Diana Johnson,1 ,Social research officer- government,B,2024-05-13,Evening,0
+d096cdc8-8dd1-4fd7-9e05-27fea5d42c07,Terry Ward,2 ,Regulatory affairs officer,A,2022-09-17,Morning,2
+d11e0b5b-8340-48dc-8c8a-642afdeb3eb6,Mr. Matthew Rodriguez,4 ,Lexicographer,B,2022-11-30,Evening,2
+d28da1a3-a34a-4dbf-a887-b6b7b6902f92,Samuel Garcia,9 ,Consulting civil engineer,A,2024-09-08,Evening,0
+d38f8f5e-0ec4-4245-97da-a4bb4b2385a2,Scott Preston,5 ,Therapist- horticultural,A,2022-01-13,Night,3
+d4d45a07-65ef-4e85-95a7-e91026989f99,Eric Cobb,8 ,Claims inspector/assessor,C,2021-10-04,Night,3
+d689ec38-fdda-4c92-8093-b78775ad3b9e,Mark Gonzalez,6 ,Museum/gallery curator,D,2024-01-24,Evening,1
+d6b34c7b-f090-462d-8b6e-8928a8fe24e6,Natalie Morris,3 ,Surveyor- insurance,A,2021-06-02,Evening,3
+d7ce9ade-ae1e-4635-8b4a-0ef29d5a7b34,Jaclyn Mcknight,7 ,Seismic interpreter,B,2020-06-17,Night,4
+d8957b4e-ddd3-46d3-96cf-7d824a79f1cb,Frank Mcintosh,2 ,Accountant- chartered certified,D,2022-11-01,Night,2
+d9291c0f-849d-4c76-ab67-4a76fe8e054f,Bradley Webster,1 ,Hospital pharmacist,B,2022-06-28,Evening,2
+d9b0c490-ce47-4464-bbe3-26fcf5d3ab28,Ryan Cain,9 ,Production designer- theatre/television/film,A,2022-10-03,Evening,2
+d9c12fe3-00b6-42fc-be1a-fc1aa4e30baf,Nathan Tyler,6 ,Marketing executive,C,2023-01-23,Evening,2
+da47976a-8153-471b-a2dc-a893078d9e35,Keith Phillips,5 ,Programmer- applications,D,2020-02-20,Morning,4
+db2cabee-204e-4671-9e49-c4489d8c0f45,John Vasquez,3 ,Environmental health practitioner,D,2023-05-18,Morning,1
+dbf0f70a-a701-4333-97a4-1b47438d9690,Sara Perry,4 ,Scientist- marine,D,2024-02-25,Evening,0
+dcccdd24-90e6-428f-923f-444639ad2230,Deborah Vincent,4 ,Occupational hygienist,B,2021-06-28,Night,3
+dd16e43e-e488-409b-972c-ac3186557404,Charles Hansen,6 ,Operational investment banker,A,2024-02-14,Morning,1
+dd8e0034-04bf-4ac6-a3f2-e3dd5c5dfcb2,David Ortiz,6 ,Waste management officer,C,2025-02-04,Evening,0
+de70ae85-06d6-4f4e-a72b-a038453df37f,Abigail Smith,2 ,Clinical molecular geneticist,B,2021-09-10,Evening,3
+de872b55-124c-495d-a217-c491e2ec1d0b,Alicia Thompson,3 ,Chief Marketing Officer,C,2024-06-04,Evening,0
+ded85e03-3c2b-4830-bb0c-482a673f50cf,Courtney Hansen,4 ,Radio broadcast assistant,B,2020-02-25,Morning,4
+dee8e58e-0b1e-4986-855f-7e29b171ea9e,James Hicks,7 ,Newspaper journalist,A,2023-02-13,Evening,2
+df5ef730-ed8e-4804-a994-3496865a9fd9,George Mills,2 ,Chemist- analytical,B,2021-03-01,Evening,3
+e002e760-a3e2-4c7e-a248-b00a6601a04f,Stephanie Willis,4 ,Barista,D,2022-04-18,Morning,2
+e0402882-678f-4df2-9046-fd7c5cc3899b,Mrs. Christine Adkins,8 ,Horticulturist- commercial,C,2023-09-11,Night,1
+e163e289-328b-435d-8bb3-8bf2e6c2819e,Angel Bell,4 ,Advertising copywriter,C,2022-02-07,Night,3
+e20fc35f-8725-48b0-bd9e-e1e13bdf853a,Amanda Valenzuela,6 ,Industrial/product designer,B,2021-05-05,Evening,3
+e2a19a2c-e259-4564-965f-c1f5946536d1,Sara Ramirez,4 ,Administrator- local government,D,2022-06-21,Night,2
+e3665eba-94f1-4a65-9ff8-77bb1d277894,Robert Ramsey,5 ,Agricultural consultant,C,2024-09-11,Night,0
+e370dab3-e095-4a74-a88e-61b67466fcf7,Courtney Wheeler,2 ,Careers adviser,C,2024-10-06,Morning,0
+e3bc6144-e42b-4fc3-9691-acad41c5b1fe,Amy Forbes,2 ,Acupuncturist,B,2020-02-27,Evening,4
+e3fcbc5e-01a5-4a00-bfeb-f863b78a300b,Alexander Davenport,3 ,Dealer,C,2020-04-03,Night,4
+e4141b24-7302-4e0c-a881-d4331368016c,David Evans,4 ,Conservator- furniture,A,2020-12-24,Evening,4
+e4c80c59-62ae-4066-bb4b-e82e8c7044ab,Tracy Irwin,6 ,Network engineer,B,2021-09-14,Morning,3
+e54b0775-3ba8-465d-903a-62b0682bda7d,Margaret Alvarado,8 ,Sport and exercise psychologist,B,2023-06-24,Night,1
+e54b1468-6e10-4d62-b514-f58e3f2bed5c,Terri Mcneil,4 ,Engineer- structural,A,2020-12-08,Evening,4
+e56147d3-ecba-46c8-8197-683bcec9f35e,Vincent Wood,5 ,Counselling psychologist,B,2021-07-14,Evening,3
+e5c2cdf4-ed2d-4e96-95b0-ccfa83f0bf57,Troy Scott,4 ,Operational investment banker,C,2021-12-02,Night,3
+e60e3d72-7233-46aa-be6c-4a72350c4aca,Thomas Lopez,4 ,Research scientist (maths),B,2022-09-04,Evening,2
+e617a44e-9c70-4f78-837c-7c0bc867eff1,Zachary Anderson,3 ,Environmental education officer,C,2022-08-21,Evening,2
+e6bb8fca-1c1d-4e05-b8eb-56efab3b4e75,Robert Johnson,7 ,Ambulance person,C,2021-04-19,Morning,3
+e7c7f5e5-3d4a-40b8-b441-6587a95108a3,Michael Buck,3 ,Scientific laboratory technician,A,2020-10-12,Morning,4
+e7e0d184-d7df-436c-97b0-6891eca5c4b7,Patricia Horton,4 ,Broadcast engineer,D,2020-06-05,Evening,4
+e8265c46-c44f-43c1-bcc8-dc2628fc7622,Brooke Hinton,1 ,Oceanographer,A,2024-02-11,Evening,1
+e86a3193-ed89-450c-993f-3225d4f8bf23,Dawn Rubio,4 ,Engineer- petroleum,B,2024-07-02,Night,0
+e904253c-f618-4f18-8d1d-c8a1cd01b27b,Vanessa Ferguson,4 ,Analytical chemist,B,2020-09-12,Morning,4
+e90e6315-3d98-415d-bf39-f8479ac1aa4f,Jason Alvarado,7 ,Engineer- building services,A,2022-10-22,Evening,2
+e97c914c-5bc6-4a3e-b8ce-f5821761694e,Matthew Mcdonald,9 ,Web designer,C,2020-10-25,Night,4
+ea6c6614-bf9f-4a57-8e16-6bcd021f6364,Philip Garcia,5 ,Building services engineer,B,2022-10-08,Morning,2
+eaa632d9-fde6-48b8-b9e9-84b1d8a41160,Kimberly Hodges,2 ,Clinical embryologist,B,2023-01-13,Morning,2
+eacf517f-34a1-47e1-9bb1-b9e770d17d8e,Darrell Morales,1 ,Operational researcher,C,2025-01-20,Morning,0
+eb310028-9206-42c0-87bd-2650e7c9886d,Matthew Marquez,1 ,Dealer,B,2021-02-27,Evening,3
+eb36dde4-4c4a-404e-89b8-e2426cdb949a,Lacey Curtis,5 ,IT sales professional,D,2021-08-21,Morning,3
+eb3f430b-8f18-43ef-be4d-3b759f0c559e,Kelly Burns,3 ,Engineer- mining,B,2024-05-08,Morning,0
+eb51aff1-1735-4698-bca6-3379c8152782,Thomas Solomon,5 ,Research officer- trade union,C,2024-12-27,Night,0
+eb64144b-a335-4ddc-a24c-8c9e96e12b59,Kyle Crawford,2 ,Trade union research officer,A,2020-05-24,Night,4
+ecacdddd-5bc0-4fc8-9cde-b57c898cc03a,Tiffany Chapman,4 ,Printmaker,C,2022-02-17,Night,2
+ed5687ea-9a31-4db1-b3db-bf0ea8f9de52,Kevin Combs,2 ,Musician,C,2021-04-11,Evening,3
+edb8fa4a-e1cb-429d-8491-1a1071002cc4,Albert Wood,3 ,Engineer- civil (contracting),A,2024-03-21,Night,0
+edc9ec01-d458-4518-9df4-9c8930a55d06,Craig Torres,9 ,Editor- magazine features,D,2022-07-20,Night,2
+ee7ebac8-3246-4160-bed6-2f8c6dcf9c31,Jesse Rodriguez,2 ,Estate agent,A,2022-09-05,Morning,2
+eef8117e-5fcb-4a8e-8009-fc3a2cb738cd,Deborah Arnold,4 ,Dealer,D,2025-02-03,Night,0
+ef1081a2-1c98-472a-9eca-c6ca3cda3946,Lynn Gibbs,4 ,Radiation protection practitioner,C,2023-10-27,Evening,1
+f03c0977-c184-48a7-8470-664925ec8950,John Phillips,5 ,Medical technical officer,D,2023-08-22,Morning,1
+f0eb0be8-c417-40cf-85ec-3a2c1b198f6f,Marissa Rowe,2 ,Brewing technologist,B,2022-01-09,Evening,3
+f152c6d2-5a3c-4dc9-901f-0e679e046d62,Dr. Tracey Mendoza,4 ,Barrister's clerk,A,2022-02-27,Night,2
+f25bdff6-ebc0-4d42-9ea9-25b2ae7b1e4a,Vincent Lynch,5 ,Teacher- English as a foreign language,D,2023-08-13,Night,1
+f2cd6a56-dc91-46e2-a492-a4c230c9e115,Mark Perez,1 ,Audiological scientist,D,2022-01-22,Evening,3
+f42107e0-add9-4666-b3fa-257279f18aad,John Knight,9 ,Art gallery manager,A,2023-03-02,Night,1
+f462776d-cb96-4b50-8b76-384b2b31fb57,Linda Moon,8 ,Ranger/warden,A,2022-10-10,Morning,2
+f4ba139f-a512-4478-87eb-56482a48723c,Zachary Nelson,4 ,Publishing copy,C,2023-01-01,Evening,2
+f4e24c3c-2eb1-4b4c-a045-dafb8176dd9c,Matthew Jackson,8 ,Aeronautical engineer,D,2022-02-09,Evening,3
+f546bc66-3383-4fad-a8b4-aa91af81e925,Sara Cole,4 ,Engineer- aeronautical,D,2023-06-21,Morning,1
+f58f2dc3-c726-4ec9-9451-3b234a6220b6,Jose Smith,9 ,Commercial art gallery manager,B,2023-09-02,Evening,1
+f7297208-bd6f-40f4-a9db-8dc416c34c65,Bryan Brown,1 ,Music tutor,C,2024-08-30,Morning,0
+f755ca0e-f427-4404-82ec-5598b1a12b6d,Jennifer Fisher,5 ,Lighting technician- broadcasting/film/video,D,2020-11-29,Morning,4
+f7a935f2-db1d-4b83-9034-d72e6b2f3b88,Karen Mccall,4 ,Community arts worker,D,2022-07-24,Night,2
+f7c80f91-20cd-4a9d-9cb7-5fa6aeb0ad57,Brenda Holloway,3 ,Designer- ceramics/pottery,D,2023-10-22,Night,1
+f822724b-f63c-4521-a20a-f34575dbfbb4,Carla Wilson,5 ,Minerals surveyor,B,2023-03-08,Evening,1
+f8c84e63-2f12-4c6a-9940-a9e90c9af9ca,Jeanette Gutierrez,3 ,Data processing manager,D,2021-06-29,Morning,3
+f8de9e20-947a-49b2-86ea-60455d80390f,Lindsey Stuart,3 ,Therapist- nutritional,D,2023-05-23,Morning,1
+f8f8e6fb-39bc-48b2-b5a2-5f44f0212a09,Pamela Campbell,8 ,Recycling officer,B,2021-09-08,Morning,3
+f8fd9995-6c82-492a-bb59-bb707f42efa5,Stacy Tate,4 ,Lexicographer,C,2025-01-27,Night,0
+f9940b12-0b63-409b-a411-acb22ae2176e,Stephanie Arnold,9 ,Claims inspector/assessor,C,2021-11-19,Morning,3
+f9b9bf3c-7e35-4298-8e25-6bf4e685abd2,Morgan Adams,4 ,Nature conservation officer,D,2021-12-18,Night,3
+f9ef56f4-3e37-4e36-bb0b-cc445903ca45,Daniel Robbins,5 ,Health promotion specialist,B,2021-04-15,Evening,3
+fad44aae-0aa3-4bce-98bc-0c11ae334831,Christy Barnes,9 ,Solicitor,D,2023-07-13,Morning,1
+fb1e4287-f395-4fd6-b43f-bc58a2fa16ad,Shannon Thompson,5 ,Engineer- electrical,A,2021-03-26,Night,3
+fbc609b5-6b5c-4855-adcd-c386a6f756c1,Kristin Stokes,6 ,Records manager,A,2023-02-27,Morning,1
+fcb1934e-2a14-4522-8bea-129e007e6987,Mrs. Terri Flores,4 ,Translator,C,2023-08-06,Night,1
+fd677e08-219b-4c78-a622-914b9b376973,Alicia Carter,4 ,Designer- textile,D,2023-04-29,Evening,1
+fd6f8e42-a4b8-45d0-9c74-c2f4316f0905,Michael Bradley,9 ,Public relations officer,A,2022-04-08,Night,2
+fe1a7aa3-7d33-4506-a384-a375b611d587,Michael Donaldson,7 ,Social research officer- government,A,2021-11-18,Night,3
+fee420fd-8552-4c00-be00-6f374d1f3c0e,Anthony Walker,1 ,Tourist information centre manager,A,2022-04-11,Evening,2
+ff4b9828-c625-4620-b8f7-a0fb95fde3d9,Sheri Murphy,4 ,Event organiser,B,2024-12-15,Evening,0
