@@ -1,0 +1,13 @@
+Diagnosis_Code,Department_ID,Treatment_Description
+A00,4 ,Cholera
+A01,4 ,Typhoid fever
+B20,4 ,HIV disease
+C34,5 ,Malignant neoplasm of bronchus and lung
+E11,6 ,Type 2 diabetes mellitus
+I10,7 ,Essential (primary) hypertension
+J45,9 ,Asthma
+M54,1 ,Dorsalgia (back pain)
+S06,2 ,Intracranial injury
+Z00,3 ,General health check-up
+Z23,8 ,Encounter for immunization
+Z87,3 ,Personal history of medical treatment
