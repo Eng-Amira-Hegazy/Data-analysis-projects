@@ -1,0 +1,201 @@
+Device_ID,Device_Name,Purchase_Date,Last_Maintenance,Department_ID,Status
+01538494-9951-408f-b561-b7eed0434dee,CT Scanner,2019-03-31,2024-09-30,3 ,Operational
+024fafeb-53ec-4fa1-a2aa-cfa1124fbf42,CT Scanner,2021-02-16,2023-12-26,1 ,Retired
+0299fc9d-6926-429c-9091-f6eaed35453d,Ultrasound,2021-01-27,2024-02-04,1 ,Retired
+04d5a96d-1269-4128-b703-3bec368db5d4,MRI Machine,2017-06-19,2024-03-31,3 ,Retired
+05cbc083-44a5-4c9a-8780-3f4e2c0be651,MRI Machine,2024-06-21,2023-10-01,1 ,Operational
+09028d65-9627-4f34-b17e-1af618af625b,CT Scanner,2017-11-15,2023-06-16,8 ,Operational
+0918b184-4821-4ce4-b371-140f98c0cc4d,X-Ray Machine,2019-01-20,2023-03-06,6 ,Retired
+09b1e655-81c0-452c-91ae-225facc9d123,Ultrasound,2020-05-24,2024-05-14,6 ,Operational
+09bb95e6-fa46-4ab7-860d-dafa8783cf68,Ultrasound,2018-10-27,2023-07-20,5 ,Under Maintenance
+0b536a86-64a9-4524-b5af-f45c75b2d58b,CT Scanner,2020-06-17,2023-06-23,5 ,Operational
+0b712f3c-e292-4b76-af24-6d0d89186210,CT Scanner,2018-08-14,2023-08-07,7 ,Retired
+0c4ead62-b3a2-4705-b382-b8d067aa41d1,CT Scanner,2017-02-23,2024-01-24,1 ,Operational
+0c6dfcb2-9b72-4d62-894c-aeb546e2fd60,MRI Machine,2023-08-21,2023-06-17,2 ,Under Maintenance
+0c7d8249-776d-4d91-a210-e709292141d2,CT Scanner,2023-09-10,2023-04-25,9 ,Retired
+0ec617d5-71c2-45ba-a92b-6f69f80949cb,MRI Machine,2019-07-25,2023-06-13,4 ,Retired
+0eccad71-1a69-4b92-af1f-f4598d85518f,Ultrasound,2017-02-14,2025-01-06,1 ,Operational
+0f2358e7-82f2-4aaf-9284-8701b9463b50,MRI Machine,2017-03-07,2024-09-16,3 ,Under Maintenance
+0f6ab779-d682-4250-9aec-1dca47c47f5d,CT Scanner,2019-08-30,2024-04-24,8 ,Retired
+0fb6bcf8-3ff1-47a1-8c9e-160472de7c3a,CT Scanner,2017-11-12,2025-01-30,5 ,Under Maintenance
+11b99da5-a082-40a7-a3e2-531c0ca7be26,MRI Machine,2018-01-31,2024-04-16,5 ,Operational
+179fc520-700f-4056-9b83-470e9acf217b,MRI Machine,2018-11-04,2025-02-05,9 ,Operational
+1e5776dc-97f0-4685-a5e4-bee734d95cf4,CT Scanner,2021-04-19,2024-10-29,4 ,Operational
+1edfd9db-8bf2-4296-b5fc-49fd65a82895,X-Ray Machine,2021-02-06,2023-06-18,8 ,Operational
+201a5be2-87a5-4d8a-86ce-183f98742527,MRI Machine,2022-11-02,2024-02-16,1 ,Under Maintenance
+208018eb-7772-40b6-a7bb-f08b434443d3,X-Ray Machine,2022-11-27,2024-08-11,5 ,Retired
+21505ef0-dcea-4684-9ca0-e6769c3a450f,MRI Machine,2018-03-29,2024-11-10,7 ,Operational
+2286dcab-4f65-448c-b816-c5b8aa2e1680,CT Scanner,2022-09-27,2024-05-12,6 ,Retired
+24435fc5-e210-4cad-a804-96799485602a,CT Scanner,2021-12-13,2024-03-01,8 ,Retired
+2680ce2e-01a3-413a-ab21-3b69df3c9345,MRI Machine,2024-01-07,2024-07-04,9 ,Under Maintenance
+27f8de9a-c5b6-493c-92c1-3cd38d33e467,MRI Machine,2024-02-23,2023-07-09,6 ,Under Maintenance
+2c06729d-9246-4229-a079-e94c33150574,CT Scanner,2025-01-28,2024-01-03,8 ,Operational
+2d228e29-b611-4b1e-95d4-a64889a323e9,X-Ray Machine,2021-12-19,2023-10-10,8 ,Operational
+30649138-b9c6-4d9f-b3b6-0fae415eecc7,CT Scanner,2019-08-14,2024-04-12,2 ,Operational
+3108a953-7618-4659-8aca-beb07198f264,MRI Machine,2022-03-12,2024-08-05,3 ,Operational
+3147166c-2c28-4606-a970-19dec3c3f953,X-Ray Machine,2017-04-14,2025-01-29,7 ,Retired
+3457f0da-25a4-4a99-8d26-0d13b61a148c,Ultrasound,2017-05-06,2023-10-18,8 ,Operational
+3738dd1b-b6c8-439a-88f3-8ca19b0e7842,X-Ray Machine,2019-09-16,2024-04-09,2 ,Operational
+37c9ef20-fea3-465f-9fdf-fad8b059a2a7,Ultrasound,2018-07-25,2024-04-25,3 ,Retired
+37fc9278-f82a-41c0-bf20-135ea39ae415,X-Ray Machine,2022-12-17,2024-12-28,4 ,Retired
+3d46051c-891f-44a8-8941-5ce9611951f2,CT Scanner,2024-01-01,2025-01-26,6 ,Under Maintenance
+3d68607f-efdf-4030-93c0-2d153754a18e,MRI Machine,2023-08-22,2023-08-29,9 ,Operational
+3dab6a2e-787d-4ce4-ad5c-c923117561ee,Ultrasound,2018-05-01,2023-09-15,2 ,Operational
+3df88555-e51f-4954-b28b-56993e7feea2,X-Ray Machine,2019-09-22,2024-08-17,9 ,Retired
+41497e58-16f3-4eae-87df-401cac430779,Ultrasound,2021-11-22,2024-09-14,8 ,Retired
+42747662-7c56-41a9-80c9-a8bdda8de3f3,Ultrasound,2017-10-27,2024-09-21,5 ,Retired
+42de9628-78fe-488d-b232-8872a26e273c,MRI Machine,2024-02-03,2023-12-22,3 ,Retired
+43fd4782-faf5-433e-b9c0-717393e8fba1,Ultrasound,2021-12-29,2024-08-05,6 ,Operational
+454d90c7-d44a-4fca-9b33-4d068e8c445e,Ultrasound,2019-11-18,2025-01-03,1 ,Operational
+4b0bb895-c7e4-4781-93d0-788e1efa8084,CT Scanner,2022-11-28,2023-06-18,8 ,Retired
+4d179809-a710-4c3d-85a0-aab4a033217a,Ultrasound,2021-10-01,2025-01-25,5 ,Retired
+4d6e1381-d24b-4a82-9b50-9efa49f405d7,CT Scanner,2020-05-13,2025-02-11,9 ,Operational
+4f4e394d-c06c-45a7-b3b6-8f30da7b762c,Ultrasound,2021-07-03,2024-09-24,4 ,Operational
+5210d183-e0c7-4250-85bb-ee43429d9846,MRI Machine,2024-01-28,2023-09-18,9 ,Under Maintenance
+523b47cc-28df-41e7-90a6-bec6f2973d71,X-Ray Machine,2023-05-21,2024-04-17,4 ,Retired
+52b272a0-eec9-434d-a73d-a1eb0b14ce8a,MRI Machine,2022-08-02,2024-03-20,3 ,Under Maintenance
+53951ad3-71bb-47c3-8258-64eeb1963e5e,CT Scanner,2021-02-10,2023-09-02,5 ,Operational
+53a49013-2682-457f-ba2c-e2f3768fdaa6,X-Ray Machine,2018-06-03,2024-10-24,2 ,Under Maintenance
+53b634e2-4ec1-4c5c-9585-3301a297b07b,CT Scanner,2022-05-02,2024-10-16,8 ,Retired
+53ee8003-9ac0-441c-b5cb-8beff78ad883,Ultrasound,2018-11-11,2024-12-19,9 ,Operational
+5441a666-1906-4e37-bea7-29730c376169,CT Scanner,2021-01-22,2023-02-26,7 ,Under Maintenance
+57a9e6c6-743d-4742-9308-8e6849be48b3,X-Ray Machine,2018-12-22,2024-12-26,6 ,Retired
+5880293b-c576-4572-99ca-325be970f119,Ultrasound,2020-12-04,2024-10-12,2 ,Retired
+5989519c-4875-42bf-b853-6d37d96e8bb0,X-Ray Machine,2017-09-21,2024-03-11,5 ,Retired
+5a2305ba-2be4-4d65-ab00-c4665405fc45,MRI Machine,2022-02-09,2024-06-26,6 ,Retired
+5cb7c004-7c8d-4a0c-9b63-b10fa33d46b7,Ultrasound,2022-02-24,2024-09-07,4 ,Under Maintenance
+5d84373b-be88-4ea2-b0cd-7d5bf8b9f0e4,X-Ray Machine,2019-04-19,2023-06-04,5 ,Retired
+5db7b418-94f6-44a5-a04e-7c3443d2a24e,Ultrasound,2024-04-25,2023-06-15,9 ,Retired
+5ddea7dc-0b86-4901-9d95-2618a0b61fd0,MRI Machine,2022-04-07,2024-05-19,5 ,Under Maintenance
+60346a96-c4bd-410a-aa32-5cb8caf0a1fa,CT Scanner,2017-08-02,2024-11-28,6 ,Operational
+61472cc9-c44a-4a4f-89fc-85ee42f3820c,CT Scanner,2020-08-06,2023-09-16,1 ,Under Maintenance
+635c4a3c-3483-4813-8943-a29d03664027,Ultrasound,2024-03-05,2023-08-27,6 ,Retired
+646d0aba-fa66-45f7-9e50-a9ecca4b4270,CT Scanner,2021-01-24,2025-01-30,7 ,Retired
+64c21786-27b7-40f4-8dbc-091532acc895,MRI Machine,2020-09-17,2023-05-19,8 ,Retired
+65aaf90b-bdd2-4b0c-a093-b702e5ae7520,CT Scanner,2022-07-03,2024-12-15,9 ,Under Maintenance
+66fc0b3f-5b8e-4983-83e1-01874f378a37,X-Ray Machine,2024-01-10,2023-05-14,6 ,Operational
+6701dd1d-1801-46a2-96ef-9865f7fa827d,Ultrasound,2019-06-12,2023-05-06,1 ,Operational
+69ad1c70-4b06-478b-82d8-894e25ce9d0a,X-Ray Machine,2023-04-07,2023-03-06,2 ,Operational
+6a4334bc-2c0f-4ff0-b445-0c86f2758043,X-Ray Machine,2024-05-02,2023-06-10,8 ,Operational
+6b38352c-8b52-42fc-9024-9db8a8e939af,MRI Machine,2022-03-12,2024-06-08,4 ,Retired
+6bcea76d-6569-4c81-84b9-aa1afecf4309,CT Scanner,2022-01-29,2023-05-24,5 ,Operational
+6c2299e1-19d7-47e2-a7b9-bf7014cd5546,Ultrasound,2024-07-10,2024-12-16,7 ,Under Maintenance
+6c545f62-5978-4680-ac59-7f1da2e1db6d,MRI Machine,2023-10-19,2024-12-17,2 ,Retired
+744b7ea2-18fd-4abc-88d0-2fabf521192f,Ultrasound,2023-10-08,2024-08-07,9 ,Under Maintenance
+763e1d3c-6cfd-4266-add2-e3ab020d544a,X-Ray Machine,2019-04-18,2024-05-01,2 ,Retired
+79719b3a-5d79-4d28-ab77-9fe9e1892d8a,MRI Machine,2022-10-09,2024-03-04,8 ,Operational
+7b064e21-eb36-4a7a-bd48-f07c758b94e6,X-Ray Machine,2017-04-28,2024-01-23,9 ,Under Maintenance
+7b26af50-bb4d-490d-b31f-4c0660484af6,Ultrasound,2020-10-30,2024-06-29,2 ,Operational
+7b31caff-0023-49c2-92c5-a1d6757104ed,Ultrasound,2020-06-21,2023-09-28,9 ,Under Maintenance
+7beb784f-f109-41c8-b51e-bea1f633902e,Ultrasound,2023-11-19,2024-03-07,6 ,Operational
+7c10b3a9-7707-41d5-b667-919ee770dfb7,CT Scanner,2020-10-10,2024-02-23,5 ,Under Maintenance
+7cc34ecc-f6a7-41c5-9088-e145a76e9e97,MRI Machine,2021-05-09,2024-01-04,8 ,Operational
+7e9b0edd-258b-4d48-ac0b-19b693aa55fb,X-Ray Machine,2019-06-27,2023-07-13,3 ,Operational
+7fbc6fee-ae20-4b7e-ba4c-081959511b0a,MRI Machine,2019-01-04,2024-11-05,6 ,Retired
+8056de3f-3d46-4fb8-8969-ebde5624f53e,Ultrasound,2022-03-25,2023-02-22,9 ,Operational
+8061572f-82cd-4538-a321-9de93733c312,MRI Machine,2022-03-10,2024-02-11,4 ,Retired
+80bbac88-3042-42b6-976c-1e9786d984fa,MRI Machine,2018-08-23,2024-08-04,9 ,Operational
+8191fd64-1e83-4d3d-95f8-a3ae52675166,X-Ray Machine,2020-06-17,2024-06-27,9 ,Retired
+81ec0f3d-99d2-4b60-aa06-a0f9eb5314d4,MRI Machine,2018-04-02,2023-03-01,6 ,Retired
+82aae058-15b6-4169-8473-ad1ec71c4206,CT Scanner,2017-12-28,2024-07-21,9 ,Under Maintenance
+834c2689-9a35-4796-b540-45faed54729e,X-Ray Machine,2022-11-05,2024-11-28,6 ,Under Maintenance
+839c63fe-8ba9-4ef5-945c-171226f528bb,CT Scanner,2021-10-03,2024-06-08,2 ,Retired
+83f6e322-3616-417f-b639-a8ce4d96761e,Ultrasound,2018-09-06,2024-06-24,1 ,Operational
+84994d87-b735-4ec8-afdd-00ab06d373b8,X-Ray Machine,2023-05-13,2024-06-18,1 ,Operational
+84c784cd-3b97-4272-afc2-f6d612c48f52,X-Ray Machine,2017-04-28,2023-06-29,1 ,Operational
+85e9a38e-e20a-4eea-a4dc-1f8393e95640,CT Scanner,2024-03-26,2023-06-05,4 ,Operational
+89726465-a8c1-495b-91e3-4345005a58b6,MRI Machine,2017-03-25,2024-03-23,7 ,Operational
+8a2ceef1-d071-4ef0-a918-f506df4799be,MRI Machine,2019-09-20,2024-06-11,5 ,Retired
+8a602841-7c2d-413f-84b8-a53cf80ad399,X-Ray Machine,2024-10-29,2024-01-15,9 ,Under Maintenance
+8bccb239-5253-4347-8046-e4681c45bd76,Ultrasound,2021-04-13,2023-11-24,2 ,Retired
+8d68eec9-789f-450d-ac66-a039ff515de9,X-Ray Machine,2017-04-26,2023-03-03,5 ,Retired
+8df1f07a-d257-4800-bad7-65d0255f2d4f,MRI Machine,2022-08-24,2023-10-13,2 ,Retired
+8e66e88e-9e6f-472b-b983-4e4da1869f6f,CT Scanner,2022-12-10,2024-01-15,8 ,Under Maintenance
+96bbf6de-cf23-46d8-9688-0c3a52a60896,Ultrasound,2020-05-19,2024-10-23,4 ,Under Maintenance
+9867e22b-7dd3-417c-8c9f-9b2cbdc24db2,X-Ray Machine,2019-12-19,2024-10-01,5 ,Operational
+9aad5e50-9a76-4651-b2a6-574eeff2f7b4,X-Ray Machine,2021-12-04,2025-01-01,9 ,Operational
+9c74204a-ce9f-4382-8c89-d129e7ab0523,Ultrasound,2024-02-25,2024-01-13,8 ,Operational
+9c9f8ca4-b8c4-4d32-b8ae-20fc60b0e2ae,Ultrasound,2017-05-03,2024-06-13,6 ,Under Maintenance
+9deac492-2857-4aeb-90d3-ab7e544dd5dc,X-Ray Machine,2022-10-26,2024-09-14,6 ,Under Maintenance
+9df6da3d-16a2-48f3-a993-a569cdf4ebf4,X-Ray Machine,2021-02-23,2023-10-08,2 ,Operational
+9fa9910a-5399-4638-a9f3-5159a1208495,CT Scanner,2023-02-24,2025-02-09,7 ,Retired
+a10b9321-7795-495d-8552-4ae103dd8f19,MRI Machine,2017-04-12,2025-01-16,7 ,Under Maintenance
+a1f6b245-0ceb-4667-8364-680a80436109,Ultrasound,2023-06-16,2023-09-18,5 ,Retired
+a3c185a4-706a-4300-9f68-a23793752191,MRI Machine,2021-11-10,2024-03-12,3 ,Under Maintenance
+a3f23c60-29b3-4a89-83d7-db2f4d063fdc,CT Scanner,2018-10-16,2024-05-10,1 ,Retired
+a6556802-b59a-45f4-a31c-6b786e927519,CT Scanner,2021-01-16,2023-11-08,9 ,Retired
+a7484d84-707c-4e72-9888-614f622d7ba8,X-Ray Machine,2020-11-15,2024-02-19,8 ,Under Maintenance
+a748a81e-7afb-45d8-9415-d57f9c6f63b5,CT Scanner,2020-01-29,2024-09-30,6 ,Operational
+a7de2daa-47bf-417f-a04a-b88b4386b96f,Ultrasound,2024-12-10,2024-02-05,6 ,Operational
+a9d35ec1-5386-4894-967c-de74602481f0,Ultrasound,2024-12-09,2024-08-22,9 ,Retired
+a9e3a700-c4b0-4728-8111-33e54dfed7cd,CT Scanner,2021-10-17,2023-08-18,8 ,Under Maintenance
+a9fc40e4-3aa9-44d7-81a0-c7e79ffa9c29,MRI Machine,2025-01-01,2024-12-23,4 ,Under Maintenance
+aa5ccd26-4bce-4663-8948-cdc07f9ea888,Ultrasound,2020-05-07,2023-06-03,5 ,Operational
+ac2c5a60-9dbe-4938-bfe9-5ec61c52b3aa,Ultrasound,2024-03-23,2024-11-22,3 ,Operational
+ac3a1269-17a5-485e-b3db-8b628d99ecda,CT Scanner,2024-04-12,2023-12-03,1 ,Under Maintenance
+ad930b80-24a2-461b-b786-4d55016bcbdb,X-Ray Machine,2023-08-12,2023-04-12,2 ,Under Maintenance
+ae51d44a-a353-4109-a711-05250f0efad9,X-Ray Machine,2021-08-18,2024-04-27,9 ,Operational
+aeb704c9-0f57-4a9c-8efc-fe2b2a40c9dd,MRI Machine,2022-11-13,2023-04-08,1 ,Under Maintenance
+b03dca99-1d8d-45b7-bfc6-07c36285a55d,X-Ray Machine,2024-10-17,2024-11-28,1 ,Retired
+b541d2e6-e658-4a71-98ff-0fe80fc9c786,CT Scanner,2019-05-25,2024-07-09,2 ,Retired
+b62937fa-d0df-4dd2-975a-380ebf5daa19,CT Scanner,2017-07-31,2023-10-25,8 ,Retired
+b68d9766-ed1c-4b4a-9191-0e6c91386f85,CT Scanner,2018-06-28,2024-08-03,2 ,Retired
+b737b7a0-4e3e-4ca0-b51b-2c1f732f82fc,CT Scanner,2024-09-03,2023-10-15,1 ,Under Maintenance
+b73992cf-2fb4-4f51-9004-00ff6bce99e9,X-Ray Machine,2019-12-19,2024-01-08,1 ,Retired
+b7f11e48-263a-4ac3-8eb7-6aa730164602,Ultrasound,2024-11-06,2023-11-07,6 ,Under Maintenance
+bbf53e14-30f0-4336-92d7-12e33d0dacec,CT Scanner,2022-03-04,2024-11-20,8 ,Retired
+be1780f9-9fe8-425e-8574-b2bccd1de1cf,X-Ray Machine,2021-04-29,2025-02-01,6 ,Retired
+be30bf40-ae73-4630-a70a-2967a96d4d62,MRI Machine,2018-09-26,2023-09-03,8 ,Under Maintenance
+be58f4c0-dc31-4da2-8af7-a1624c1eacff,X-Ray Machine,2017-04-22,2024-03-17,6 ,Operational
+c09da382-aec6-4f10-8c4c-5786ac05cabd,Ultrasound,2017-08-28,2023-09-27,8 ,Retired
+c11a7908-0d20-414e-a774-126860ae8895,Ultrasound,2017-04-11,2024-09-11,4 ,Retired
+c1a0cc6c-a98f-4d6e-96c6-15b9fb1fb73c,MRI Machine,2017-03-05,2024-05-29,5 ,Retired
+c2326fca-8d7b-4134-bc49-1ea0fe403fa6,MRI Machine,2023-01-17,2023-06-11,2 ,Retired
+c26aa71b-8f38-47a2-b933-20a99ac37d45,Ultrasound,2023-04-07,2024-01-17,4 ,Operational
+c34b15bd-bf70-47a2-a1f1-0af657550370,MRI Machine,2019-08-14,2024-12-19,1 ,Retired
+c4616714-610b-47e2-93a5-0dea72d93548,CT Scanner,2024-04-28,2023-10-25,5 ,Retired
+c9064dcf-3afd-42d9-a75c-84a1fcd73eac,Ultrasound,2024-06-27,2024-12-22,5 ,Retired
+ca02a856-d628-4259-8ecf-a582ec5c94d2,CT Scanner,2019-10-27,2023-04-04,8 ,Retired
+cb4c05a8-fde2-477c-8aff-fcdac3987fba,CT Scanner,2018-04-26,2023-09-08,1 ,Under Maintenance
+ccfc8228-dca7-4741-b75b-98fc3a4ee0c6,MRI Machine,2019-06-11,2023-06-30,3 ,Retired
+ce843c9e-640c-4e66-864e-424a744d5af6,X-Ray Machine,2018-09-05,2024-11-23,4 ,Retired
+d503ef40-f0f0-4065-8a50-12b6d98b5466,X-Ray Machine,2017-07-16,2024-02-17,1 ,Retired
+d5426dee-aea3-4eb8-929f-22b3c678f722,Ultrasound,2023-03-01,2023-06-25,6 ,Operational
+d6108ddd-46c1-4c2f-b7c2-607105805b76,Ultrasound,2018-03-13,2023-03-03,7 ,Retired
+d6318dac-2c3e-458e-95d8-323c22fbeb4e,CT Scanner,2024-09-13,2025-01-09,2 ,Retired
+d6508519-152c-443b-afe0-90b0fcb28911,MRI Machine,2021-07-29,2024-07-11,3 ,Operational
+d7d00d70-4c64-419e-854c-8733a446c240,X-Ray Machine,2017-03-07,2024-08-03,6 ,Retired
+d8e44333-f83a-41f1-ad2b-885f0db94897,MRI Machine,2022-09-26,2023-06-26,7 ,Under Maintenance
+dac18d4e-34f6-4819-b7b1-59f946d0fb4b,X-Ray Machine,2017-04-05,2023-12-24,4 ,Retired
+dd9c9362-10e4-4c5c-bf8a-2d32da76eaa8,X-Ray Machine,2024-11-17,2023-09-08,5 ,Under Maintenance
+de6eff4e-5f65-46bc-8958-db174894c52f,Ultrasound,2019-01-20,2023-04-20,7 ,Retired
+e1358640-9b40-4bee-89ef-0c47eea93262,CT Scanner,2024-12-05,2024-07-20,3 ,Under Maintenance
+e296d1d3-0d2e-4031-b8a1-9451ab6251e9,X-Ray Machine,2022-11-06,2023-03-03,1 ,Retired
+e3fa09b6-71a2-4d2b-805b-51b426922b2e,Ultrasound,2019-01-22,2023-07-15,4 ,Under Maintenance
+e66ad498-cfbb-4e6d-9c21-84f9bda4aa31,Ultrasound,2019-05-17,2024-02-13,3 ,Operational
+e83fbc9c-b210-400b-bc82-79c331f0b607,X-Ray Machine,2023-12-08,2023-09-02,4 ,Retired
+ea1a4652-1f4f-4131-842e-67e8dba2cedc,Ultrasound,2020-01-02,2023-09-17,3 ,Operational
+ea6bdb7d-56b0-431c-9718-0703aba1e82b,MRI Machine,2019-03-29,2024-12-19,5 ,Operational
+eabbd237-852a-4c81-9714-694a15b027de,MRI Machine,2021-02-10,2023-04-08,7 ,Retired
+eada00c1-ee2d-498d-a62d-090298791b14,X-Ray Machine,2018-05-31,2024-08-12,6 ,Retired
+ebd5b56a-2047-4d72-ba74-91235a080a30,MRI Machine,2020-09-12,2024-11-03,7 ,Retired
+ebfdddfb-786e-49a2-9266-38e2591b7dcc,X-Ray Machine,2019-09-17,2023-12-09,2 ,Retired
+ec12fa64-27ba-42b9-b0b6-15735e2dd1bb,CT Scanner,2018-10-26,2023-09-08,1 ,Retired
+ecb81b75-b89f-45a6-827c-b45fa404ace9,CT Scanner,2023-10-01,2023-04-10,2 ,Under Maintenance
+ed7e970e-56fa-4d3d-9b78-923b5df309d5,CT Scanner,2023-07-31,2023-06-16,4 ,Operational
+edaa1c80-0f61-4224-a730-4f4f36662db9,Ultrasound,2019-07-18,2024-08-03,3 ,Retired
+ee44865a-8df2-45fa-bca9-a21bc73eac81,X-Ray Machine,2025-02-05,2024-11-20,2 ,Under Maintenance
+f1acfd3e-f2c7-4bc6-9964-e2e14630b8f2,Ultrasound,2020-03-20,2023-06-29,5 ,Retired
+f2f0954f-7a9a-4452-b6d4-391707cfeedc,Ultrasound,2023-02-05,2024-08-20,8 ,Operational
+f67b575a-9df7-4283-8e87-f60de9bac867,X-Ray Machine,2019-10-02,2024-10-29,3 ,Under Maintenance
+f6ea850c-5dbb-4ab9-8669-281b65803011,CT Scanner,2021-03-27,2024-11-09,9 ,Retired
+f705d69e-1616-487e-a843-0c6ca2f9cc64,Ultrasound,2019-03-04,2024-02-03,5 ,Operational
+f8c773da-0734-4805-b48a-19137b0f57f0,MRI Machine,2021-08-21,2025-01-05,3 ,Operational
+f8eff130-60ee-4d00-b002-07eee0cf16f5,Ultrasound,2017-08-19,2024-08-30,8 ,Operational
+f95fa341-dc28-43a5-b7ed-f40361e09efa,CT Scanner,2023-08-03,2024-08-24,3 ,Under Maintenance
+f9789d93-d67b-4b52-8e53-c962eb3bf459,Ultrasound,2017-09-09,2023-06-28,1 ,Retired
+f98ffe99-20e3-4472-b25c-65e7ca633379,Ultrasound,2023-08-31,2023-06-22,2 ,Under Maintenance
+fdca8a17-8825-4c72-9c13-4ed5323db17c,CT Scanner,2017-02-21,2023-12-02,4 ,Under Maintenance
+ff54bba6-1945-4df1-a65f-143513d15c73,X-Ray Machine,2018-03-13,2023-11-07,7 ,Under Maintenance
+ff895ff7-c3ce-4a03-9c5f-c9ed12904240,Ultrasound,2024-01-03,2024-05-10,5 ,Retired
+ffef6ca2-9d3a-4eeb-84f0-07ad25b27f6b,X-Ray Machine,2025-01-29,2023-09-04,3 ,Operational
